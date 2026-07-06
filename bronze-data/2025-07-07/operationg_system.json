@@ -1,0 +1,4688 @@
+[
+  {
+    "OSID": 1,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 2,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 3,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 18.3.2",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 4,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 18.3.2",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 5,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 6,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 7,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 18.3",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 8,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 9,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 10,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 11,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 12,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 13,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 14,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 15,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 16,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 Go Edition (Upside Down Cake)",
+    "SoftwareExtras": "Face Recognition"
+  },
+  {
+    "OSID": 17,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 18,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 Go Edition (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 19,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 20,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Face Recognition"
+  },
+  {
+    "OSID": 21,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Face Recognition"
+  },
+  {
+    "OSID": 22,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 23,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 24,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 25,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 26,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 5.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 27,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 4.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 28,
+    "Platform": "Linux",
+    "OperatingSystem": "",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 29,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 15 (Vanilla Ice Cream)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 30,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 5.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 31,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 4.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 32,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 3.5",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 33,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 5.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 34,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Wear OS 3.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 35,
+    "Platform": "Linux",
+    "OperatingSystem": "Samsung Tizen Wearable Platform",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 36,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 37,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 38,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 Go Edition (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 39,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 Go Edition (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 40,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 41,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 42,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 43,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 44,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple watchOS 11",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 45,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple watchOS 10",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 46,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 47,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 18",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 48,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 18",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 49,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4.2",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 50,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4.2",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 51,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 52,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 53,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 54,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 55,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 56,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4.2",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 57,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 58,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 59,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4.2",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 60,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 61,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 62,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 63,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 64,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 65,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 66,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 67,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 68,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.0",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 69,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 70,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Handheld PC 3.0 Professional Edition (Jupiter)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 71,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Handheld PC 2.0 (Mercury)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 72,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 73,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 74,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 75,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 76,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 17.5",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 77,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 17.4",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 78,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 17.5",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 79,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 80,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 81,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 82,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 83,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Face Recognition"
+  },
+  {
+    "OSID": 84,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Face Recognition"
+  },
+  {
+    "OSID": 85,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 86,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 87,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 88,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 89,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 90,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 91,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 92,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 93,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 Go Edition (S)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 94,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 95,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 96,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 97,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 14 (Upside Down Cake)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 98,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.1 Series 60 3rd Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 99,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 100,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Face Recognition"
+  },
+  {
+    "OSID": 101,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Face Recognition"
+  },
+  {
+    "OSID": 102,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 103,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 104,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 17",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 105,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 106,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 107,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.0",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 108,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 109,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 110,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 3.1",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 111,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 Go Edition (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 112,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 113,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 Go Edition (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 114,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 115,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 116,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 117,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 118,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 Go Edition (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 119,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 120,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 121,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 13 (Tiramisu)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 122,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 123,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 124,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 125,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 126,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 127,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 128,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 129,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 130,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 131,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 132,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 133,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 16.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 134,
+    "Platform": "Google Android",
+    "OperatingSystem": "Huawei HarmonyOS 2.0",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 135,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 12 (S)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 136,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 16.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 137,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 138,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple watchOS 9",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 139,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple watchOS 7",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 140,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple watchOS 8",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 141,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 16",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 142,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 143,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 15",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 144,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 15",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 145,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 146,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 147,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 148,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 149,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 150,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.4 (KitKat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 151,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.2 (Lollipop)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 152,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 153,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 154,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 155,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1.1 (Lollipop)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 156,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 157,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 158,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 159,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 Go Edition (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 160,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 161,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 162,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 163,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba YunOS 5.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 164,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 165,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 166,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 167,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 168,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 169,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 170,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Wear OS 2.2 (H)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 171,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 15",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 172,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 15",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 173,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 14.5",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 174,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 175,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 176,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 15",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 177,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 178,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 179,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 180,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 181,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 182,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 183,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 184,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 185,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 186,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 187,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 188,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 189,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 190,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Face Recognition"
+  },
+  {
+    "OSID": 191,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 192,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 193,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 194,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 195,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 196,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 197,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 198,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 199,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 200,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 201,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 202,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 203,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 204,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 205,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 206,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 207,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 208,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Face Recognition"
+  },
+  {
+    "OSID": 209,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 210,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 211,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 212,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 213,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 12.4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 214,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.0.1",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 215,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 216,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 11",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 217,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 14.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 218,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 219,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 220,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 221,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 222,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 223,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 224,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 225,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 226,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 227,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 14",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 228,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 14",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 229,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Face Recognition"
+  },
+  {
+    "OSID": 230,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Face Recognition"
+  },
+  {
+    "OSID": 231,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 232,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 233,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 234,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 235,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 236,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 237,
+    "Platform": "Linux",
+    "OperatingSystem": "",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 238,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 Go edition (Q)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 239,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 240,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 241,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPadOS 13.4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Face Recognition"
+  },
+  {
+    "OSID": 242,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 243,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 13.4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 244,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 13.4",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 245,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 11 (R)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 246,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 247,
+    "Platform": "Google Android",
+    "OperatingSystem": "",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 248,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 10 (Q)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 249,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 250,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 251,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 252,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 253,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 254,
+    "Platform": "Linux",
+    "OperatingSystem": "",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 255,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Face Recognition"
+  },
+  {
+    "OSID": 256,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 257,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 258,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 259,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4 (KitKat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 260,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1 (Lollipop)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 261,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 262,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 263,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 264,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 265,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 266,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 267,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 268,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 269,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 270,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 271,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Virtual Reality (VR) support , Face Recognition"
+  },
+  {
+    "OSID": 272,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 273,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple Watch OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 274,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple WatchOS 6",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 275,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple WatchOS 4.1",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 276,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple WatchOS 4",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 277,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 278,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 279,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 280,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 281,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 13",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 282,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 283,
+    "Platform": "Linux",
+    "OperatingSystem": "",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 284,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 285,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 286,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 287,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 13",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 288,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 289,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9 Pie Go edition (Pie)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 290,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 291,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 292,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 293,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support , Face Recognition"
+  },
+  {
+    "OSID": 294,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 295,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Virtual Reality (VR) support , Face Recognition"
+  },
+  {
+    "OSID": 296,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 297,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 298,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 12.3.1",
+    "SoftwareExtras": "Voice Command , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 299,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1 (Lollipop)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 300,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.1 (Lollipop)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 301,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 302,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 12.2",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 303,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 304,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 305,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple WatchOS 5",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 306,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Wear OS 2.10",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 307,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 308,
+    "Platform": "Linux",
+    "OperatingSystem": "KaiOS Technologies KaiOS 2.0",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 309,
+    "Platform": "Linux",
+    "OperatingSystem": "KaiOS Technologies KaiOS 1.0",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 310,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 311,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 312,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 313,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 Oreo Go edition (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 314,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 315,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 316,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 317,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Wear OS 2.2 (H)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 318,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2.2 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 319,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 320,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.2 (KitKat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 321,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 12.1",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Face Recognition"
+  },
+  {
+    "OSID": 322,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.3.2",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 323,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 324,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 325,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 326,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 327,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 328,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.1 (Eclair)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 329,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 330,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 331,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 332,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 333,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 12",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 334,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 335,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Navigation software , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 336,
+    "Platform": "Windows (desktop-class)",
+    "OperatingSystem": "Microsoft Windows 10 Pro",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 337,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Face Recognition"
+  },
+  {
+    "OSID": 338,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1 (Lollipop)",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 339,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 340,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 9.0 (Pie)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 341,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.2 (Lollipop)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 342,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 343,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 344,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 345,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 346,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 347,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Wear OS 2.10",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 348,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 349,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 350,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 351,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 352,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 353,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 354,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 355,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 356,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 357,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 358,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 359,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 360,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 361,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 362,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 363,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded Handheld 6.5 Professional",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 364,
+    "Platform": "Yes",
+    "OperatingSystem": "Real Time Engineers FreeRTOS",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 365,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.1 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR)"
+  },
+  {
+    "OSID": 366,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 367,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba YunOS 5.1.1",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 368,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 369,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 370,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 371,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 372,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 373,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2.2 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 374,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Chrome OS 1.0",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 375,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 376,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 11.3",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 377,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 378,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 379,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1.2 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 380,
+    "Platform": "Linux",
+    "OperatingSystem": "Mozilla Firefox OS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 381,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 382,
+    "Platform": "Yes",
+    "OperatingSystem": "",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 383,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 384,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 385,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 386,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 387,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 388,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 389,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 390,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 391,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 392,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 393,
+    "Platform": "Windows (desktop-class)",
+    "OperatingSystem": "Microsoft Windows 10 Pro",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 394,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 395,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1.1 (Lollipop)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 396,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Augmented Reality (AR) , Intelligent personal assistant"
+  },
+  {
+    "OSID": 397,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 398,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 399,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant , Voice Recognition"
+  },
+  {
+    "OSID": 400,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian EPOC Release 3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 401,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Navigation software , Face Recognition"
+  },
+  {
+    "OSID": 402,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 11",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 403,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 404,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 405,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 406,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Intelligent personal assistant"
+  },
+  {
+    "OSID": 407,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Chrome OS 1.0",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 408,
+    "Platform": "Linux",
+    "OperatingSystem": "Jolla Sailfish OS 2.1 (Iijoki)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 409,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 410,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1.1 (Lollipop)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 411,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 8.0 (Oreo)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 412,
+    "Platform": "Yes",
+    "OperatingSystem": "",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 413,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 414,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 415,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 416,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Intelligent personal assistant"
+  },
+  {
+    "OSID": 417,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 418,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 419,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 420,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 421,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR)"
+  },
+  {
+    "OSID": 422,
+    "Platform": "Yes",
+    "OperatingSystem": "Real Time Engineers FreeRTOS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 423,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 424,
+    "Platform": "Linux",
+    "OperatingSystem": "Samsung Tizen Wearable Platform",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 425,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Voice Recognition , Face Recognition"
+  },
+  {
+    "OSID": 426,
+    "Platform": "Google Android",
+    "OperatingSystem": "",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 427,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 428,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.6 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 429,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support , Intelligent personal assistant , Face Recognition"
+  },
+  {
+    "OSID": 430,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.2 (Nougat)",
+    "SoftwareExtras": "Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 431,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 432,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 433,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0 (Marshmallow)",
+    "SoftwareExtras": "Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 434,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.7 (Gingerbread)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 435,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.1 (Lollipop)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 436,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.2 (Lollipop)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 437,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 438,
+    "Platform": "Linux",
+    "OperatingSystem": "Canonical Ubuntu Touch 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 439,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 440,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 441,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 442,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0 (Lollipop)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 443,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.3",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 444,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1.1 (Lollipop)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 445,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 446,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.1.1 (Nougat)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 447,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 7.0 (Nougat)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software , Augmented Reality (AR) , Virtual Reality (VR) support , Intelligent personal assistant"
+  },
+  {
+    "OSID": 448,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 449,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.3",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 450,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.0.3",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 451,
+    "Platform": "Linux",
+    "OperatingSystem": "Linux Foundation Tizen 2.4.0 Platform Release",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 452,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 2.0 / Wear 7.1.1W",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 453,
+    "Platform": "Linux",
+    "OperatingSystem": "Linux Foundation Tizen 3.0 Platform Release",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 454,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10.2.1",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 455,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows 10 Mobile",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 456,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 5.1.1W",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 457,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 458,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.1",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 459,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.5 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 460,
+    "Platform": "Linux",
+    "OperatingSystem": "Google Chrome OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 461,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Voice Command , Business card recognition , Navigation software"
+  },
+  {
+    "OSID": 462,
+    "Platform": "Linux",
+    "OperatingSystem": "Debian Project Debian 8.6 (Jessie)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 463,
+    "Platform": "",
+    "OperatingSystem": "",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 464,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 465,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows 10 Mobile",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 466,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba Yun OS 3.0 (Aliyun OS)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 467,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba YunOS 3.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 468,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple Watch OS 3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 469,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10",
+    "SoftwareExtras": "Voice Command , Navigation software , Intelligent personal assistant"
+  },
+  {
+    "OSID": 470,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 5.1.1W",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 471,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 10",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 472,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 6.0.1 (Marshmallow)",
+    "SoftwareExtras": "Augmented Reality (AR)"
+  },
+  {
+    "OSID": 473,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2.2 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 474,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows 10 Mobile",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 475,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba YunOS 3.1.6",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 476,
+    "Platform": "Linux",
+    "OperatingSystem": "Tencent TencentOS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 477,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.3 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 478,
+    "Platform": "Linux",
+    "OperatingSystem": "Jolla Sailfish OS 2.0 (Eineheminlampi)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 479,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 480,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.3",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 481,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.3",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 482,
+    "Platform": "Linux",
+    "OperatingSystem": "Samsung Tizen Wearable Platform",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 483,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.3 (KitKat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 484,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.3 (Ice Cream Sandwich)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 485,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows 10 Mobile",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 486,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1.2 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 487,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1 (Lollipop)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 488,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "LG Open webOS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 489,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.0",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 490,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 491,
+    "Platform": "Google Android",
+    "OperatingSystem": "Alibaba Yun OS 3.0.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 492,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.0.1",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 493,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 494,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 9.0.1",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 495,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 5.1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 496,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.1 (Lollipop)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 497,
+    "Platform": "Windows (desktop-class)",
+    "OperatingSystem": "Microsoft Windows 8.1 Pro (Blue)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 498,
+    "Platform": "Linux",
+    "OperatingSystem": "Tencent TencentOS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 499,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 8.4",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 500,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 4.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 501,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 502,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.3.2 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 503,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.4 (KitKat)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 504,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0.2 (Lollipop)",
+    "SoftwareExtras": "Voice Command , Navigation software , Virtual Reality (VR) support"
+  },
+  {
+    "OSID": 505,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.3.1 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 506,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 5.0 (Lollipop)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 507,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.4 (Ice Cream Sandwich)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 508,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.4 (KitKat)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 509,
+    "Platform": "Linux",
+    "OperatingSystem": "Mozilla Firefox OS 1.3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 510,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1.1 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 511,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 4.4W.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 512,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.3 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 513,
+    "Platform": "Linux",
+    "OperatingSystem": "Linux Foundation Tizen 2.3.0 Platform Release",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 514,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.2.1 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 515,
+    "Platform": "Windows (desktop-class)",
+    "OperatingSystem": "Microsoft Windows 8 Pro",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 516,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.2.1",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 517,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 8.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 518,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 519,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 8",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 520,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android Wear 4.4W",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 521,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8.1",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 522,
+    "Platform": "Linux",
+    "OperatingSystem": "Mozilla Firefox OS 1.0.0 (Boot to Gecko)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 523,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.3 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 524,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.3 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 525,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.3 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 526,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.4 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 527,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.1 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 528,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.5 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 529,
+    "Platform": "Linux",
+    "OperatingSystem": "Mozilla Firefox OS 1.1.0 (Leo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 530,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded 8 Handheld",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 531,
+    "Platform": "Linux",
+    "OperatingSystem": "Linux Foundation Tizen 2.2.1 Platform Release",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 532,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8 GDR3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 533,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.2 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 534,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.4.1 (KitKat)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 535,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 536,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 537,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.1",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 538,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.2.1 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 539,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 540,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows RT 8.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 541,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2.1 (Froyo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 542,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8 (Apollo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 543,
+    "Platform": "Linux",
+    "OperatingSystem": "Mozilla Firefox OS 1.2.0 (Koi)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 544,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.7 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 545,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.0.4",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 546,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.1 (Ice Cream)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 547,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.3.1 (Jelly Bean)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 548,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows RT",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 549,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded CE 6.0 R3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 550,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.0.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 551,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.0.3",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 552,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Standard",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 553,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 554,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2.1 (Froyo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 555,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 4.3.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 556,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 5",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 557,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 5.0.1",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 558,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 6",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 559,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 7.0.2",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 560,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 6",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 561,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 6.1.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 562,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 4.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 563,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 6.1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 564,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 4.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 565,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 3.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 566,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 4.0",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 567,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iOS 4.2",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 568,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 7.1 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 569,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 8 (Apollo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 570,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 571,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.4 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 572,
+    "Platform": "Linux",
+    "OperatingSystem": "Jolla Sailfish OS 1.0 (Ohijarvi)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 573,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 10.1 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 574,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7.8",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 575,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.6 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 576,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1.2 (Jelly Bean)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 577,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.1.1 (Jelly Bean)",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 578,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 579,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7.5 Refresh (Tango)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 580,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 Second Edition for Pocket PC Phone Edition (Ozone Update)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 581,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.4 (Ice Cream Sandwich)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 582,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0 (Ice Cream Sandwich)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 583,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2 (Froyo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 584,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.1 (Ice Cream Sandwich)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 585,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7.5 (Mango)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 586,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 587,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.5 (Ice Cream Sandwich)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 588,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7.5 (Mango)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 589,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.2.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 590,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.7 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 591,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7.5 Refresh (Tango)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 592,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2.2 (Froyo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 593,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.3 (Ice Cream Sandwich)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 594,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS Symbian^3 PR2 Anna (Anna)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 595,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.2",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 596,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS Symbian^3 PR3 Belle (Belle)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 597,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Professional (Titanium)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 598,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 5.0 (Macallan)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 599,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.1 (Ice Cream Sandwich)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 600,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 7 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 601,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS Symbian^3 PR3 Belle (Belle)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 602,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2.2 (Froyo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 603,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.4 Series 60 5th Edition (Symbian^1) (S^1)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 604,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS Symbian^3 PR2 Anna (Anna)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 605,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.1 (Ice Cream)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 606,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.2 (Froyo)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 607,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3 (Gingerbread)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 608,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.2 Series 60 3rd Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 609,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.6 (Donut)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 610,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.3.2 (Gingerbread)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 611,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.3 Series 60 3rd Edition",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 612,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.0 (Honeycomb)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 613,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Smartphone",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 614,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": "Business card recognition , Navigation software"
+  },
+  {
+    "OSID": 615,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia MeeGo 1.2 (Harmattan)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 616,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.5 (Cupcake)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 617,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "HP webOS 2.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 618,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "HP webOS 3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 619,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 3.0 (Honeycomb)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 620,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 2.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 621,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5.3 Professional (Maldives)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 622,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry Tablet OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 623,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "HP webOS 2.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 624,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 3.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 625,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.1 (Eclair)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 626,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS Symbian^3 (Series 60 5.2)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 627,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry PlayBook OS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 628,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.0 (Eclair)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 629,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 5.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 630,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 2.0 / Android+",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 631,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "HP webOS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 632,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 6 OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 633,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 6.0 Core (Yamazaki)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 634,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.6 (Donut)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 635,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Standard",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 636,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 2.0 / Android+",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 637,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 1.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 638,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Classic",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 639,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Pocket PC Premium Edition (Magneto)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 640,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded CE 6.0 (Yamazaki)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 641,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Professional (Crossbow)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 642,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS Maemo 5.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 643,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded CE 6.0 (Yamazaki)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 644,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.5 (Cupcake)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 645,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 5.0 Core (Macallan)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 646,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 5.0 Core (Macallan)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 647,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5.3 Professional (Maldives)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 648,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Professional (Titanium)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 649,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.3 Series 60 3rd Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 650,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5.3 Professional (Maldives)",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 651,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 1.5",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 652,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.0 (Eclair)",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 653,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Professional (Titanium)",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 654,
+    "Platform": "Yes",
+    "OperatingSystem": "Qualcomm Brew Mobile Platform",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 655,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.2 Professional Edition (McKendric)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 656,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Classic (Crossbow)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 657,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 6 Starter Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 658,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 6.0 Core (Yamazaki)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 659,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "Palm webOS 1.4.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 660,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Standard",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 661,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Pocket PC Phone Edition (Magneto)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 662,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Embedded CE 6.0 R3",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 663,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Phone 7",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 664,
+    "Platform": "Linux",
+    "OperatingSystem": "Samsung Bada OS",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 665,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.0.1 (Eclair)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 666,
+    "Platform": "Linux",
+    "OperatingSystem": "LiMo Foundation LiMo R2.0.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 667,
+    "Platform": "Linux",
+    "OperatingSystem": "LiMo Foundation LiMo R1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 668,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 3.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 669,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "Palm webOS 1.3.8",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 670,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.4 Series 60 5th Edition (Symbian^1) (S^1)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 671,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 672,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.3 Series 60 3rd Edition",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 673,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 674,
+    "Platform": "Google Android",
+    "OperatingSystem": "Borqs OPhone OS 1.0",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 675,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Standard (Crossbow)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 676,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.6",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 677,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 678,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Standard",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 679,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 2.0 (Eclair)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 680,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.1 (Jameson)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 681,
+    "Platform": "Linux",
+    "OperatingSystem": "Trolltech Qtopia 1.7.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 682,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "Palm webOS 1.3.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 683,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "Palm webOS 1.3.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 684,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS Maemo 5.0",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 685,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 5.0",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 686,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.7",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 687,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 688,
+    "Platform": "Palm OS",
+    "OperatingSystem": "PalmSource Palm OS 5.4 (Garnet)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 689,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.5 Professional (Titanium)",
+    "SoftwareExtras": "Voice Command , Business card recognition"
+  },
+  {
+    "OSID": 690,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 2.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 691,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 692,
+    "Platform": "Linux",
+    "OperatingSystem": "Trolltech Qt for Embedded Linux + MOTOMAGX",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 693,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Professional",
+    "SoftwareExtras": "Voice Command , Business card recognition"
+  },
+  {
+    "OSID": 694,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.2 (McKendric)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 695,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.0",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 696,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 697,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.2 Series 60 3rd Edition",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 698,
+    "Platform": "Linux",
+    "OperatingSystem": "Garmin Linux",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 699,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Standard",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 700,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.6 (Donut)",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 701,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 702,
+    "Platform": "Palm webOS",
+    "OperatingSystem": "Palm webOS 1.0.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 703,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Smartphone",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 704,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.2 Core (McKendric)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 705,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.2 Core (McKendric)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 706,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Professional (Crossbow)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 707,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Professional (Crossbow)",
+    "SoftwareExtras": "Navigation software"
+  },
+  {
+    "OSID": 708,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Pocket PC Professional Edition (Magneto)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 709,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6.1 Standard",
+    "SoftwareExtras": "Voice Command , Navigation software"
+  },
+  {
+    "OSID": 710,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 711,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 712,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 4.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 713,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry OS 3.x",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 714,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 715,
+    "Platform": "RIM BlackBerry OS",
+    "OperatingSystem": "RIM BlackBerry 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 716,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Handheld PC 1.0 (Pegasus)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 717,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Palm-size PC 1.0 (Gryphon)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 718,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Palm PC 1.0 (Gryphon)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 719,
+    "Platform": "Newton OS",
+    "OperatingSystem": "Apple Newton OS",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 720,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.3 Series 60 3rd Edition",
+    "SoftwareExtras": "Business card recognition , Navigation software"
+  },
+  {
+    "OSID": 721,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 6.0 Series 80 1st Edtion (EPOC R6) (Crystal)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 722,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.1 UIQ 3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 723,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Standard (Crossbow)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 724,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS 2008 Edition Maemo 4.1 (Diablo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 725,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 7.0 Series 80 2nd Edtion",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 726,
+    "Platform": "Linux",
+    "OperatingSystem": "Trolltech Qt for Embedded Linux + OpenEZX",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 727,
+    "Platform": "Palm OS",
+    "OperatingSystem": "PalmSource Palm OS 5.4 (Garnet)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 728,
+    "Platform": "Palm OS",
+    "OperatingSystem": "PalmSource Palm OS 5.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 729,
+    "Platform": "Palm OS",
+    "OperatingSystem": "PalmSource Palm OS 5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 730,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 3.5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 731,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 4.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 732,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 3.3",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 733,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 734,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 3.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 735,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 3.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 736,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 737,
+    "Platform": "Palm OS",
+    "OperatingSystem": "Palm Computing Palm OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 738,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 1.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 739,
+    "Platform": "Apple iOS / iPadOS",
+    "OperatingSystem": "Apple iPhone OS 1.1.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 740,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 741,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 for Pocket PC Phone Edition (Ozone)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 742,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Pocket PC 2002 Premium Edition (Merlin)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 743,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Handheld PC 2000 (Galileo)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 744,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS 2008 Edition Maemo 4.0 (Chinook)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 745,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS 2007 Edition Maemo 3.0 (Bora)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 746,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 7.0 Series 90 2nd Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 747,
+    "Platform": "Linux",
+    "OperatingSystem": "Nokia Internet Tablet OS 2006 Edition Maemo 2.1 (Scirocco)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 748,
+    "Platform": "MS-DOS",
+    "OperatingSystem": "Microsoft MS-DOS 5.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 749,
+    "Platform": "GEOS",
+    "OperatingSystem": "GeoWorks GEOS Ensemble 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 750,
+    "Platform": "MS-DOS",
+    "OperatingSystem": "Microsoft MS-DOS 3.22",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 751,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.2 UIQ 3.2",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 752,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.2 UIQ 3.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 753,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 7.0 UIQ 2.1",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 754,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 7.0 UIQ 2.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 755,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian EPOC Release 5u (Symbian OS 5.1)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 756,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 9.1 UIQ 3.0",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 757,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 8.1 Series 60 2nd Edition 2.8",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 758,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 8.0 Series 60 2nd Edition 2.6",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 759,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 5.0 for Pocket PC Phone Edition (Magneto)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 760,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 7.0 Series 60 2nd Edition",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 761,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian OS 6.1 Series 60 1st Edition (Pearl)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 762,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 for Pocket PC Premium Edition (Ozone)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 763,
+    "Platform": "GEOS",
+    "OperatingSystem": "GeoWorks GEOS V3.0",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 764,
+    "Platform": "Google Android",
+    "OperatingSystem": "Google Android 4.0.4 (Ice Cream Sandwich)",
+    "SoftwareExtras": "Voice Command"
+  },
+  {
+    "OSID": 765,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 6 Professional (Crossbow)",
+    "SoftwareExtras": "Business card recognition"
+  },
+  {
+    "OSID": 766,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian EPOC Release 4",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 767,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian EPOC Release 5",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 768,
+    "Platform": "Symbian",
+    "OperatingSystem": "Symbian EPOC16 (SIBO)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 769,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 Second Edition for Smartphone (Magneto)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 770,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 Second Edition for Pocket PC Premium Edition (Ozone Update)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 771,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 Second Edition for Pocket PC Professional Edition (Ozone Update)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 772,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 for Smartphone",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 773,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows Mobile 2003 for Pocket PC Professional Edition (Ozone)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 774,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE .NET 4.1 Core (Jameson)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 775,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Pocket PC 2002 Phone Edition (Merlin)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 776,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Smartphone 2002 (Stinger)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 777,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Pocket PC 2000 (Rapier)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 778,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Palm-size PC 1.2 Color (Wyvern)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 779,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Windows CE 3.0 Core (Cedar)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 780,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Pocket PC 2002 Professional Edition (Merlin)",
+    "SoftwareExtras": ""
+  },
+  {
+    "OSID": 781,
+    "Platform": "Windows (mobile-class)",
+    "OperatingSystem": "Microsoft Handheld PC 3.01 Professional Edition (Jupiter)",
+    "SoftwareExtras": ""
+  }
+]

@@ -1,0 +1,5730 @@
+[
+  {
+    "ConnectivityID": 101,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 102,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 103,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 104,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 105,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 106,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 107,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 108,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 109,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 110,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 111,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 112,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 113,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 114,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 115,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 116,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 117,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 118,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 119,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 120,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 121,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 122,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 123,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 124,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 125,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 126,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 127,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 128,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 129,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 130,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 131,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 132,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 133,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 134,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 135,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 136,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 137,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 138,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 139,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 140,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 141,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 142,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 143,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 144,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 145,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 146,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 147,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 148,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 149,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 150,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 6.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 151,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 152,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 6.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 153,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 154,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 155,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 156,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 157,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 158,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 159,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 160,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "Yes",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 161,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 162,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 163,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 164,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 165,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 166,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 167,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 168,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 169,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 170,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 171,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 172,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 173,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 174,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 175,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 176,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 177,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 178,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 179,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 180,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 181,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 182,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 183,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 184,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 185,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 186,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 187,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.4",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 188,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 189,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 190,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 191,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 192,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 193,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 194,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 195,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Apple SIM , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 196,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 197,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 198,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 199,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 200,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 201,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 202,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 203,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 204,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 205,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 206,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 207,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 208,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 209,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 210,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 211,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 212,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 213,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 214,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 215,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 216,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 217,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 218,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 219,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 220,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 221,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 222,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 223,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 224,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 225,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 226,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 227,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 228,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 229,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 230,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 231,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 232,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 233,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 234,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.3",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 235,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 236,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 237,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 238,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 239,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 240,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 241,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 242,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 243,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 244,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 245,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 246,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 247,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 248,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 249,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 250,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 251,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 252,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 253,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 254,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 255,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 256,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 257,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 258,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 259,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 260,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 261,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 262,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 263,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 264,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 265,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 266,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 267,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 268,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 269,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 270,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 271,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 272,
+    "USB": "USB4 Gen 3x2",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 273,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 274,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 275,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 276,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 277,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 278,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 279,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 280,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 281,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 282,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 283,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 284,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 285,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 286,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 287,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 288,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 289,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 290,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 291,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 292,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 293,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 294,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 295,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 296,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 297,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 298,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 299,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 300,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 301,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 302,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 303,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 304,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 305,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 306,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 307,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 308,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 309,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 310,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 311,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 312,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 313,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 314,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 315,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 316,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 317,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 318,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 319,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 320,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 321,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 322,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 323,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 324,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 325,
+    "USB": "Yes",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 326,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 327,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 328,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 329,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 330,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 331,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 332,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 333,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 334,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 335,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 336,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 337,
+    "USB": "No",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 338,
+    "USB": "No",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 339,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 340,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 341,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 342,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 343,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 344,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 345,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 346,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 347,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 348,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 349,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 350,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 351,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 352,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 353,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 354,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 355,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 356,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 357,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 358,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 359,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 360,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 361,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 362,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 363,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 364,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 365,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 366,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 367,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 368,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 369,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 370,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 371,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 372,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 373,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 374,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 375,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 376,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 377,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 378,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 379,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 380,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 381,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 382,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 383,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 384,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 385,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 386,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 387,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 388,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 389,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 390,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 391,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 392,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 393,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 394,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 395,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 396,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 397,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 5.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 398,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 399,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 400,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 401,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 402,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 403,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 404,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 405,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 406,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 407,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 408,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 409,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 410,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 411,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 412,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 413,
+    "USB": "Yes",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 414,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 415,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 416,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 417,
+    "USB": "Yes",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 418,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 419,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 420,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 421,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 422,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 423,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 424,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 425,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 426,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 427,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 428,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 429,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 430,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 431,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 432,
+    "USB": "USB 1.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 433,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 434,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 435,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 436,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 437,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 438,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 439,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 440,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 441,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 442,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 443,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 444,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 445,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 446,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 447,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 448,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 449,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 450,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 451,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 452,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 453,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 454,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 455,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 456,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 457,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 458,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 459,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 460,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 461,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 462,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 463,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 464,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 465,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 466,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 467,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 468,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 469,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 470,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 471,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 472,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded) , Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 473,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 474,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 475,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 476,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 477,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 478,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Unknown",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 479,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 480,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 481,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 482,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 483,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 484,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 485,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 486,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 487,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 488,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 489,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 490,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 491,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 492,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 493,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 494,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 495,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 496,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 497,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 498,
+    "USB": "USB 1.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 499,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 500,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 501,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 502,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM"
+  },
+  {
+    "ConnectivityID": 503,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 504,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM"
+  },
+  {
+    "ConnectivityID": 505,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 506,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 507,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 508,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 509,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 510,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 511,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 512,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 513,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 514,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 515,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 516,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 517,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 518,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 519,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 520,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 521,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 522,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 523,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 524,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 525,
+    "USB": "USB 3.1 Gen 2 / USB 3.2 Gen 2x1",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 526,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 527,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 528,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.2",
+    "NFC": "",
+    "SIMCardSlot": "Apple SIM"
+  },
+  {
+    "ConnectivityID": 529,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 530,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 531,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 532,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 533,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 534,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 535,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B , NFC C",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 536,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 537,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 538,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 539,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 540,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 541,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 542,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 543,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 544,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 545,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 546,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 547,
+    "USB": "",
+    "USBConnector": "",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 548,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 549,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 550,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 551,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 552,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 553,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 554,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 555,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 556,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 557,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 558,
+    "USB": "USB 2.0",
+    "USBConnector": "",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 559,
+    "USB": "",
+    "USBConnector": "",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 560,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 561,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 562,
+    "USB": "Yes",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 563,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 564,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 565,
+    "USB": "Yes",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "e-SIM (embedded)"
+  },
+  {
+    "ConnectivityID": 566,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 567,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 568,
+    "USB": "Yes",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 569,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 570,
+    "USB": "USB 1.1",
+    "USBConnector": "Yes",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 571,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 572,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 573,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 574,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 575,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 576,
+    "USB": "Yes",
+    "USBConnector": "USB Type-C reversible",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 577,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 578,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 579,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 580,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 581,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 582,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 583,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 584,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 585,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 586,
+    "USB": "",
+    "USBConnector": "",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 587,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 588,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 589,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 590,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 591,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 592,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 593,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 594,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 595,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 596,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 597,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 598,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 599,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 600,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 601,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 602,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 603,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 604,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 605,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 606,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 607,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 608,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 609,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.1",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 610,
+    "USB": "Yes",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 611,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 612,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 613,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 614,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 615,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 616,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 617,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 618,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 619,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 620,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 621,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 622,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 623,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 624,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 625,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 626,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 627,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B , NFC C",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 628,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 629,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 630,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 631,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 632,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 633,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 634,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 635,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 636,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 637,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 638,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 639,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 640,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B , NFC C",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 641,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 642,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 643,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 644,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 645,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 646,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 647,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 648,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 649,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 650,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 651,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 652,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 653,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 654,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Nano-SIM (4FF)"
+  },
+  {
+    "ConnectivityID": 655,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Unknown",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 656,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 657,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 658,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 659,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 660,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 661,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 662,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 663,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 664,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 665,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 666,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 667,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Unknown",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 668,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 669,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 670,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 671,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 672,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 673,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 674,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 675,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 676,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 677,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 678,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 679,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 680,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 681,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 682,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 683,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 684,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 685,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 686,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 687,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 688,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 689,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 690,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 691,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 692,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 693,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 694,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 695,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 696,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 697,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 698,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 699,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 700,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 701,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 702,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 703,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 704,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 705,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "Yes",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 706,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 707,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 708,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 709,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 710,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 711,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 712,
+    "USB": "USB 3.0 / USB 3.1 Gen 1 / USB 3.2 Gen 1x1",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 713,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 714,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 4.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 715,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 716,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 717,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 718,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 719,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 720,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 721,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 722,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 723,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 724,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 725,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 726,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 727,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 728,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 729,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 3.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 730,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 731,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 732,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 733,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 734,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "Yes",
+    "SIMCardSlot": "Micro-SIM (3FF)"
+  },
+  {
+    "ConnectivityID": 735,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 736,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 737,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 738,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 739,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 740,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 741,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 742,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 743,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 744,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 745,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 746,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 747,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 748,
+    "USB": "USB 1.1",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 749,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 750,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "NFC A , NFC B",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 751,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 752,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 753,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 754,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 755,
+    "USB": "Yes",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 756,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 757,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 758,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 759,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 760,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 761,
+    "USB": "Yes",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 762,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 763,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Unknown",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 764,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 765,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 766,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 767,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Micro-AB",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 768,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 769,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 770,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 771,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 772,
+    "USB": "Yes",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 773,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 774,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 775,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 776,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Micro-B (Micro-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 777,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 778,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 779,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 780,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.1 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 781,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 782,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "NFC A , NFC B , FeliCa",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 783,
+    "USB": "USB 1.1",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 784,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 785,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series A",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 786,
+    "USB": "USB 2.0",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 787,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 788,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 789,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "Yes",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 790,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 791,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 792,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 793,
+    "USB": "Yes",
+    "USBConnector": "Yes",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 794,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 795,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Yes",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 796,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 797,
+    "USB": "Yes",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 798,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 799,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0 + Enhanced Data Rate",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 800,
+    "USB": "USB 2.0",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 801,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 802,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 803,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 804,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 805,
+    "USB": "USB 1.1",
+    "USBConnector": "No",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 806,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.2",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 807,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 1.0B",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 808,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 809,
+    "USB": "USB 2.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "Bluetooth 2.0",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 810,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-AB",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 811,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.2.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 812,
+    "USB": "USB 1.1",
+    "USBConnector": "USB Series Mini-AB",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": ""
+  },
+  {
+    "ConnectivityID": 813,
+    "USB": "USB 1.1",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Yes"
+  },
+  {
+    "ConnectivityID": 814,
+    "USB": "USB 2.0",
+    "USBConnector": "USB Series Mini-B (mini-USB)",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 815,
+    "USB": "USB 1.0",
+    "USBConnector": "Proprietary",
+    "Bluetooth": "No",
+    "NFC": "",
+    "SIMCardSlot": "Mini-SIM (2FF)"
+  },
+  {
+    "ConnectivityID": 816,
+    "USB": "No",
+    "USBConnector": "No",
+    "Bluetooth": "Bluetooth 1.1",
+    "NFC": "",
+    "SIMCardSlot": ""
+  }
+]

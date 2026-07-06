@@ -1,0 +1,301 @@
+DisplayID;DisplayHole;DisplayDiagonal;Resolution;DisplayType;DisplayColorDepth;DisplayIllumination;DisplayRefreshRate
+1701;;165.1 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1702;;267.2 mm;1600x2560;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1703;;203.1 mm;800x1280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1704;;220.5 mm;800x1340;Color PLS TFT LCD display;24 bit/pixel;LED;
+1705;;255.4 mm;1200x1920;Color IPS TFT LCD display;24 bit/pixel;LED;
+1706;1-hole;165.6 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1707;;212.6 mm;1920x1200;Color PLS TFT LCD display;24 bit/pixel;Yes;
+1708;;158.1 mm;816x2260;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1709;;138.4 mm;720x1440;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1710;1-hole;174.4 mm;1440x3200;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1711;;203 mm;2480x2200;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1712;;169.42 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1713;;139.7 mm;720x1496;Color IPS TFT LCD display;24 bit/pixel;LED;
+1714;1-hole;165 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1715;;165.1 mm;1644x3840;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1716;;143.3 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;LED;
+1717;1-hole;203.5 mm;1860x2480;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1718;1-hole;166.37 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1719;1-hole;169.41 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1720;;166.9 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1721;1-hole;173 mm;1440x3200;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1722;1-hole;172.97 mm;1440x3200;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1723;;152.4 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;LED;
+1724;;152.4 mm;1080x2520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1725;;165.8 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1726;1-hole;154.9 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1727;;169.4 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1728;1-hole;157.5 mm;1440x3200;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1729;1-hole;154.94 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1730;;164.33 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1731;;147.32 mm;1080x2280;Color ASV TFT LCD display;30 bit/pixel;LED;
+1732;;162.3 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1733;;149.3 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1734;;132 mm;720x1280;Color TN-TFT LCD display;24 bit/pixel;LED;
+1735;;144 mm;720x1512;Color IPS TFT LCD display;24 bit/pixel;LED;
+1736;;138.4 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1737;1-hole;170.2 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1738;1-hole;162.5 mm;1080x2300;Color IPS TFT LCD display;24 bit/pixel;LED;
+1739;1-hole;166.3 mm;900x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1740;1-hole;162.56 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1741;;225.55 mm;1080x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1742;;203.2 mm;1200x1920;Color IPS TFT LCD display;24 bit/pixel;LED;
+1743;;254 mm;1920x1200;Color IPS TFT LCD display;24 bit/pixel;LED;
+1744;1-hole;162.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;LED;
+1745;;165.9 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1746;1-hole;165.86 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1747;1-hole;169.4 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1748;1-hole;169.4 mm;1080x2400;Color IPS TFT LCD display;30 bit/pixel;LED;144 Hz
+1749;1-hole;169.4 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1750;;158 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1751;1-hole;169.4 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1752;;165.1 mm;720x1600;Color PLS TFT LCD display;24 bit/pixel;LED;
+1753;1-hole;165.1 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1754;2-hole;170.2 mm;1080x2520;Color IPS TFT LCD display;24 bit/pixel;LED;90 Hz
+1755;1-hole;163.3 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1756;;162.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1757;1-hole;165.1 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1758;;157.9 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1759;1-hole;166.87 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1760;1-hole;167.1 mm;1080x2640;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1761;;139 mm;1080x1920;Color IPS TFT LCD display;24 bit/pixel;LED;
+1762;;119.5 mm;750x1334;Color IPS TFT LCD display;24 bit/pixel;LED;
+1763;;137.67 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1764;;153.92 mm;1170x2532;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1765;;169.4 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1766;1-hole;165.1 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1767;;162.3 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1768;;180 mm;1440x3120;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1769;;279.4 mm;2000x1200;Color IPS TFT LCD display;24 bit/pixel;LED;
+1770;;292 mm;2560x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1771;;138.43 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1772;1-hole;162.3 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1773;;164.34 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1774;;256.54 mm;1920x1200;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1775;;161.5 mm;720x1544;Color IPS TFT LCD display;24 bit/pixel;LED;
+1776;1-hole;162.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;LED;90 Hz
+1777;1-hole;162.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1778;;169.7 mm;1284x2772;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1779;;163.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1780;;274.32 mm;2560x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1781;2-hole;163.4 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1782;;294.6 mm;1920x1080;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1783;;152.1 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1784;;127 mm;480x854;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1785;;152.4 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1786;;138.43 mm;480x960;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1787;;152.1 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1788;;159 mm;1080x2280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1789;1-hole;166.4 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1790;;165.8 mm;1080x2400;Color AM-OLED display;24 bit/pixel;LED;60 Hz
+1791;;165.86 mm;1176x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1792;;203 mm;1920x1200;Color IPS TFT LCD display;24 bit/pixel;LED;
+1793;1-hole;160 mm;1080x2280;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1794;1-hole;166.9 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1795;;91 mm;720x1280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1796;1-hole;173 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1797;1-hole;167.1 mm;1080x2640;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1798;;147.3 mm;720x1560;Color PLS TFT LCD display;24 bit/pixel;LED;
+1799;;180.8 mm;1080x2244;Color IPS TFT LCD display;24 bit/pixel;LED;
+1800;;180.84 mm;1080x2244;Color IPS TFT LCD display;24 bit/pixel;LED;
+1801;;167.4 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1802;;160 mm;1080x2400;Color AM-OLED display;24 bit/pixel;LED;
+1803;;154.7 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1804;;165.1 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1805;1-hole;163.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1806;1-hole;165.9 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1807;1-hole;166.9 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1808;1-hole;166.9 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1809;;165.1 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1810;1-hole;166.88 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1811;1-hole;172.97 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1812;;165.1 mm;720x1584;Color IPS TFT LCD display;24 bit/pixel;LED;
+1813;1-hole;165.8 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1814;;165 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1815;1-hole;166.62 mm;1080x2376;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1816;;163.7 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1817;;152.4 mm;1080x2520;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1818;;162.56 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;240 Hz
+1819;1-hole;158 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1820;1-hole;147.6 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1821;1-hole;151 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1822;;275.84 mm;1640x2360;Color IPS TFT LCD display;30 bit/pixel;LED;
+1823;1-hole;174.5 mm;1440x3088;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1824;;177.8 mm;720x1640;Color IPS TFT LCD display;24 bit/pixel;LED;
+1825;1-hole;172 mm;720x1640;Color IPS TFT LCD display;24 bit/pixel;LED;60 Hz
+1826;1-hole;167.64 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1827;;157.98 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1828;;158 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1829;1-hole;172.9 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1830;;166 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1831;2-hole;175.26 mm;1080x2460;Color IPS TFT LCD display;24 bit/pixel;LED;90 Hz
+1832;1-hole;167.6 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1833;;161.3 mm;720x1544;Color IPS TFT LCD display;24 bit/pixel;LED;
+1834;;127 mm;1080x1920;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1835;;157.48 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1836;;172.7 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1837;;162 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1838;;162.6 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1839;1-hole;164.34 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1840;;157.91 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1841;;160 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1842;;172.7 mm;1080x2460;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1843;;169.42 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1844;1-hole;169.4 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1845;1-hole;166 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1846;;167.39 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;144 Hz
+1847;1-hole;167.6 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1848;1-hole;163.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1849;1-hole;166.62 mm;1080x2376;Color AM-OLED display;24 bit/pixel;Self-illuminating;90 Hz
+1850;1-hole;165.1 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1851;1-hole;166.88 mm;1080x2408;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1852;1-hole;165.8 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1853;;138.43 mm;720x1440;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1854;;246.4 mm;1280x800;Color IPS TFT LCD display;24 bit/pixel;LED;
+1855;;157.73 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1856;1-hole;165.86 mm;1080x2340;Color IPS TFT LCD display;30 bit/pixel;LED;
+1857;;157.9 mm;720x1520;Color PLS TFT LCD display;24 bit/pixel;LED;
+1858;1-hole;162.5 mm;1080x2310;Color IPS TFT LCD display;24 bit/pixel;LED;
+1859;1-hole;166.9 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1860;1-hole;166.9 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1861;1-hole;162.5 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1862;2-hole;162.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1863;1-hole;166 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1864;2-hole;167.64 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1865;;113.7 mm;1080x1620;Color IPS TFT LCD display;24 bit/pixel;LED;
+1866;1-hole;172.72 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1867;;165.1 mm;1440x3168;Color ASV TFT LCD display;24 bit/pixel;LED;120 Hz
+1868;1-hole;165.86 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1869;;164.84 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1870;;41.91 mm;348x442;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1871;1-hole;163.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1872;2-hole;166.9 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1873;2-hole;163.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1874;2-hole;166.4 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;90 Hz
+1875;;203.2 mm;800x1280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1876;;144.8 mm;720x1520;Color PLS TFT LCD display;24 bit/pixel;LED;
+1877;1-hole;158.3 mm;1440x3200;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1878;;164.3 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1879;;165.6 mm;540x1200;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1880;;157.7 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1881;1-hole;165 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1882;;162.56 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1883;;139.7 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1884;1-hole;163.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1885;1-hole;166.87 mm;1080x2408;Color IPS TFT LCD display;30 bit/pixel;LED;144 Hz
+1886;;139.7 mm;720x1280;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1887;;157.5 mm;720x1680;Color IPS TFT LCD display;24 bit/pixel;LED;
+1888;;160 mm;1080x2280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1889;;164.34 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1890;;169.4 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;60 Hz
+1891;2-hole;169.4 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;120 Hz
+1892;;154.94 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1893;1-hole;170.18 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1894;;125.73 mm;480x960;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1895;;157.48 mm;480x966;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1896;;162.3 mm;1080x2400;Color IPS TFT LCD display;24 bit/pixel;LED;
+1897;1-hole;166.4 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1898;1-hole;172.2 mm;1440x3168;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1899;;32.5 mm;176x176;Color TN-TFT LCD display;;LED;
+1900;;139.7 mm;1080x2160;Color ASV TFT LCD display;24 bit/pixel;Yes;
+1901;;165.86 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;Self-illuminating;
+1902;1-hole;167.64 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1903;;154.94 mm;1440x3120;Color PM-OLED display;24 bit/pixel;LED;
+1904;;162.6 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1905;;164.3 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;60 Hz
+1906;1-hole;162.6 mm;1080x2400;Color AM-OLED display;30 bit/pixel;Self-illuminating;90 Hz
+1907;1-hole;176.5 mm;720x1640;Color IPS TFT LCD display;24 bit/pixel;LED;
+1908;;127 mm;480x854;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1909;1-hole;165 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1910;1-hole;166.9 mm;1080x2400;Color IPS TFT LCD display;30 bit/pixel;LED;
+1911;;162.56 mm;1080x2400;Yes;24 bit/pixel;Yes;
+1912;1-hole;170 mm;1440x3168;Color AM-OLED display;30 bit/pixel;Self-illuminating;120 Hz
+1913;;157.5 mm;876x2142;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1914;;144 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;LED;
+1915;;145 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1916;;256.54 mm;1920x1200;Color ASV TFT LCD display;24 bit/pixel;LED;
+1917;;40.64 mm;320x360;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1918;;175 mm;1080x2256;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1919;;33 mm;360x360;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1920;2-hole;163 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1921;;203 mm;2480x2200;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1922;;165.86 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1923;1-hole;159 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1924;;132 mm;1080x1920;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1925;;167.6 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;LED;
+1926;;167.5 mm;720x1600;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1927;;162.56 mm;1080x2340;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1928;;157.5 mm;720x1500;Color IPS TFT LCD display;24 bit/pixel;LED;
+1929;;157.2 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1930;;152.4 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1931;;157.91 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1932;;154.6 mm;1440x3120;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1933;;157.5 mm;720x1500;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1934;1-hole;166.88 mm;1080x2400;Color IPS TFT LCD display;30 bit/pixel;LED;
+1935;;160 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1936;;86.36 mm;480x854;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1937;;177.8 mm;1024x600;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1938;;177.8 mm;600x1024;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1939;;138.43 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;LED;
+1940;;157 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1941;;135.63 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1942;;156.14 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1943;;159 mm;720x1520;Color TN-TFT LCD display;24 bit/pixel;LED;
+1944;;152.1 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1945;;152.14 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;LED;
+1946;;157.45 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;LED;
+1947;;116.84 mm;1430x1438;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1948;;135.63 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;LED;
+1949;;261.62 mm;1920x1200;Color IPS TFT LCD display;24 bit/pixel;LED;
+1950;;172.7 mm;640x1352;Color IPS TFT LCD display;24 bit/pixel;LED;
+1951;;135.89 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;LED;
+1952;;62.23 mm;240x432;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1953;;145.1 mm;720x1520;Color PLS TFT LCD display;24 bit/pixel;Yes;
+1954;;162.3 mm;1080x2340;Color IPS TFT LCD display;24 bit/pixel;LED;
+1955;;157.5 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1956;;138.5 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1957;;148.8 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;LED;
+1958;;144.8 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;LED;
+1959;;144 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1960;;156.97 mm;1080x2246;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1961;;114.3 mm;480x845;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1962;;152.4 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1963;;144.8 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;LED;
+1964;;45.2 mm;368x448;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1965;;164.84 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;Self-illuminating;
+1966;;157.7 mm;1080x2248;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1967;;152.6 mm;1080x2160;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1968;;114.3 mm;480x854;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1969;;177.8 mm;600x1024;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1970;;177.3 mm;600x1024;Color TN-TFT LCD display;16 bit/pixel;Yes;
+1971;;144.8 mm;720x1520;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1972;;154.63 mm;720x1560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1973;;135.6 mm;480x960;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1974;;148.3 mm;1080x2280;Color IPS TFT LCD display;24 bit/pixel;LED;
+1975;;157.48 mm;1080x2246;Color IPS TFT LCD display;24 bit/pixel;LED;61 Hz
+1976;;139.7 mm;720x1280;Color TN-TFT LCD display;24 bit/pixel;Yes;
+1977;;154.9 mm;600x1280;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1978;;160 mm;1080x2280;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1979;;152.65 mm;1080x2160;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1980;;149.86 mm;720x1560;Color TN-TFT LCD display;24 bit/pixel;;
+1981;;143.5 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;LED;
+1982;;152.14 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1983;;139.7 mm;480x960;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1984;;152.15 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1985;;152.1 mm;1080x2160;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1986;1-hole;170.3 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1987;;156.9 mm;1080x2246;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1988;;149.8 mm;1080x2246;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1989;;38.1 mm;390x390;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1990;;152.1 mm;1080x2160;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1991;;170.18 mm;1080x2280;Color IPS TFT LCD display;24 bit/pixel;Yes;
+1992;;162.6 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;120 Hz
+1993;;157.48 mm;2160x3840;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1994;;162.4 mm;1080x2340;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+1995;;154.7 mm;1440x3120;Color IPS TFT LCD display;24 bit/pixel;LED;
+1996;;213 mm;1600x2560;Color IPS TFT LCD display;24 bit/pixel;LED;
+1997;;116.3 mm;720x1680;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1998;;162.5 mm;1080x2400;Color AM-OLED display;24 bit/pixel;Self-illuminating;
+1999;;157.5 mm;1080x2232;Color AM-OLED display;30 bit/pixel;Self-illuminating;
+2000;;127 mm;720x1440;Color IPS TFT LCD display;24 bit/pixel;Yes;

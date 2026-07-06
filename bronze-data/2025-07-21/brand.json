@@ -1,0 +1,944 @@
+{"BrandID": 1,"Brand": "Google","HardwareDesigner": "Google","Manufacturer": "Foxconn"}
+{"BrandID": 2,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Foxconn"}
+{"BrandID": 3,"Brand": "Samsung","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 4,"Brand": "Samsung","HardwareDesigner": "Samsung Electronics","Manufacturer": ""}
+{"BrandID": 5,"Brand": "Samsung","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 6,"Brand": "Motorola","HardwareDesigner": "Lenovo","Manufacturer": ""}
+{"BrandID": 7,"Brand": "Motorola","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 8,"Brand": "NEC","HardwareDesigner": "NEC","Manufacturer": "NEC"}
+{"BrandID": 9,"Brand": "NEC","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 10,"Brand": "Nothing","HardwareDesigner": "Nothing Technology Limited","Manufacturer": "BBK Electronics"}
+{"BrandID": 11,"Brand": "Asus","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 12,"Brand": "Asus","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "Foxconn"}
+{"BrandID": 13,"Brand": "Oppo","HardwareDesigner": "Oppo","Manufacturer": "BBK Electronics"}
+{"BrandID": 14,"Brand": "OnePlus","HardwareDesigner": "Oppo","Manufacturer": "BBK Electronics"}
+{"BrandID": 15,"Brand": "OnePlus","HardwareDesigner": "OnePlus","Manufacturer": "BBK Electronics"}
+{"BrandID": 16,"Brand": "OnePlus","HardwareDesigner": "BBK Electronics","Manufacturer": "BBK Electronics"}
+{"BrandID": 17,"Brand": "OnePlus","HardwareDesigner": "BBK Electronics","Manufacturer": ""}
+{"BrandID": 18,"Brand": "Google","HardwareDesigner": "","Manufacturer": "Sunwoda Electronic"}
+{"BrandID": 19,"Brand": "Google","HardwareDesigner": "","Manufacturer": "Shenzhen Highpower Technology"}
+{"BrandID": 20,"Brand": "Google","HardwareDesigner": "Compal Electronics","Manufacturer": "Compal Electronics"}
+{"BrandID": 21,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Foxconn"}
+{"BrandID": 22,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": ""}
+{"BrandID": 23,"Brand": "Fujitsu","HardwareDesigner": "Fujitsu","Manufacturer": "Fujitsu"}
+{"BrandID": 24,"Brand": "Oppo","HardwareDesigner": "Oppo","Manufacturer": ""}
+{"BrandID": 25,"Brand": "BBK","HardwareDesigner": "BBK Electronics","Manufacturer": ""}
+{"BrandID": 26,"Brand": "BBK","HardwareDesigner": "BBK Electronics","Manufacturer": "BBK Electronics"}
+{"BrandID": 27,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Luxshare"}
+{"BrandID": 28,"Brand": "Kyocera","HardwareDesigner": "Kyocera Communications","Manufacturer": "Kyocera Communications"}
+{"BrandID": 29,"Brand": "Sharp","HardwareDesigner": "Sharp","Manufacturer": ""}
+{"BrandID": 30,"Brand": "Sharp","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 31,"Brand": "Huawei","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 32,"Brand": "Gigaset","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 33,"Brand": "uleFone","HardwareDesigner": "Ulefone Mobile","Manufacturer": ""}
+{"BrandID": 34,"Brand": "Fujitsu","HardwareDesigner": "Fujitsu","Manufacturer": "Lenovo"}
+{"BrandID": 35,"Brand": "HTC","HardwareDesigner": "HTC","Manufacturer": ""}
+{"BrandID": 36,"Brand": "uleFone","HardwareDesigner": "Ulefone Mobile","Manufacturer": "Shenzhen Gotron Electronic"}
+{"BrandID": 37,"Brand": "General Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 38,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Xiaomi"}
+{"BrandID": 39,"Brand": "Reliance","HardwareDesigner": "Reliance Retail Ltd.","Manufacturer": "Reliance Retail Ltd."}
+{"BrandID": 40,"Brand": "Vertu","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 41,"Brand": "ZTE","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 42,"Brand": "Sony","HardwareDesigner": "Sony","Manufacturer": "Sony"}
+{"BrandID": 43,"Brand": "Casio","HardwareDesigner": "Casio Computer","Manufacturer": "Casio Computer"}
+{"BrandID": 44,"Brand": "Yandex","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 45,"Brand": "Nokia","HardwareDesigner": "HMD Global","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 46,"Brand": "Nothing","HardwareDesigner": "Nothing Technology Limited","Manufacturer": ""}
+{"BrandID": 47,"Brand": "Sharp","HardwareDesigner": "","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 48,"Brand": "NIO","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 49,"Brand": "Meizu","HardwareDesigner": "Meizu","Manufacturer": "Meizu"}
+{"BrandID": 50,"Brand": "Lenovo","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 51,"Brand": "OnePlus","HardwareDesigner": "Oppo","Manufacturer": ""}
+{"BrandID": 52,"Brand": "OnePlus","HardwareDesigner": "Oppo","Manufacturer": "OPPO India"}
+{"BrandID": 53,"Brand": "Samsung","HardwareDesigner": "Samsung Electronics","Manufacturer": "Nanchang Qisheng Electronic"}
+{"BrandID": 54,"Brand": "ZTE","HardwareDesigner": "ZTE","Manufacturer": ""}
+{"BrandID": 55,"Brand": "ZTE","HardwareDesigner": "Leia","Manufacturer": "ZTE"}
+{"BrandID": 56,"Brand": "Nokia","HardwareDesigner": "Nokia","Manufacturer": "Nokia"}
+{"BrandID": 57,"Brand": "Oppo","HardwareDesigner": "BBK Electronics","Manufacturer": "BBK Electronics"}
+{"BrandID": 58,"Brand": "Nokia","HardwareDesigner": "HMD Global","Manufacturer": "HMD Europe"}
+{"BrandID": 59,"Brand": "Sharp","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 60,"Brand": "Sharp","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 61,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Longcheer"}
+{"BrandID": 62,"Brand": "OnePlus","HardwareDesigner": "OnePlus","Manufacturer": ""}
+{"BrandID": 63,"Brand": "Nokia","HardwareDesigner": "HMD Global","Manufacturer": ""}
+{"BrandID": 64,"Brand": "Kyocera","HardwareDesigner": "Kyocera Wireless","Manufacturer": "Kyocera Wireless"}
+{"BrandID": 65,"Brand": "TCL","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 66,"Brand": "Motorola","HardwareDesigner": "Bullitt Group","Manufacturer": ""}
+{"BrandID": 67,"Brand": "Caterpillar","HardwareDesigner": "Bullitt Group","Manufacturer": ""}
+{"BrandID": 68,"Brand": "Motorola","HardwareDesigner": "","Manufacturer": "Lenovo"}
+{"BrandID": 69,"Brand": "Telstra","HardwareDesigner": "","Manufacturer": "Unimaxcomm"}
+{"BrandID": 70,"Brand": "Telstra","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 71,"Brand": "Nokia","HardwareDesigner": "HMD Global","Manufacturer": "Lava International"}
+{"BrandID": 72,"Brand": "Motorola","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Lenovo"}
+{"BrandID": 73,"Brand": "Blu","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 74,"Brand": "Huawei","HardwareDesigner": "Huawei","Manufacturer": "Global Components"}
+{"BrandID": 75,"Brand": "Oppo","HardwareDesigner": "OnePlus","Manufacturer": "BBK Electronics"}
+{"BrandID": 76,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 77,"Brand": "Nokia","HardwareDesigner": "HMD Global","Manufacturer": "Shenzhen TINNO Mobile Technology"}
+{"BrandID": 78,"Brand": "Sharp","HardwareDesigner": "Sharp","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 79,"Brand": "Razer","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 80,"Brand": "Acer","HardwareDesigner": "Acer","Manufacturer": ""}
+{"BrandID": 81,"Brand": "T-Mobile","HardwareDesigner": "Wingtech Mobile","Manufacturer": "Wingtech Mobile"}
+{"BrandID": 82,"Brand": "Vertu","HardwareDesigner": "ZTE","Manufacturer": ""}
+{"BrandID": 83,"Brand": "HTC","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 84,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Rising Stars Mobile India"}
+{"BrandID": 85,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": ""}
+{"BrandID": 86,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Luxshare iTech"}
+{"BrandID": 87,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Quanta Computer"}
+{"BrandID": 88,"Brand": "Lenovo","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Lenovo"}
+{"BrandID": 89,"Brand": "Microsoft","HardwareDesigner": "Microsoft","Manufacturer": ""}
+{"BrandID": 90,"Brand": "Google","HardwareDesigner": "Google","Manufacturer": ""}
+{"BrandID": 91,"Brand": "Reliance","HardwareDesigner": "Reliance Retail Ltd.","Manufacturer": ""}
+{"BrandID": 92,"Brand": "OnePlus","HardwareDesigner": "OnePlus","Manufacturer": "OPPO India"}
+{"BrandID": 93,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Hon Hai Precision"}
+{"BrandID": 94,"Brand": "BBK","HardwareDesigner": "Oppo","Manufacturer": "BBK Electronics"}
+{"BrandID": 95,"Brand": "Wiko","HardwareDesigner": "Wiko Mobile","Manufacturer": "Shenzhen TINNO Mobile Technology"}
+{"BrandID": 96,"Brand": "Hisense","HardwareDesigner": "Hisense","Manufacturer": "Hisense"}
+{"BrandID": 97,"Brand": "Kyocera","HardwareDesigner": "Kyocera Wireless","Manufacturer": "Kyocera Communications"}
+{"BrandID": 98,"Brand": "Motorola","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Motorola Mobile Devices"}
+{"BrandID": 99,"Brand": "Meizu","HardwareDesigner": "Meizu","Manufacturer": "Huizhou HEG Technology"}
+{"BrandID": 100,"Brand": "Reliance","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 101,"Brand": "Fairphone","HardwareDesigner": "FairPhone B.V.","Manufacturer": ""}
+{"BrandID": 102,"Brand": "FIH","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 103,"Brand": "Google","HardwareDesigner": "","Manufacturer": "Foxconn"}
+{"BrandID": 104,"Brand": "Sugar","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 105,"Brand": "Coolpad","HardwareDesigner": "Yulong Computer","Manufacturer": ""}
+{"BrandID": 106,"Brand": "Samsung","HardwareDesigner": "Huaqin Telecom","Manufacturer": "Huaqin Telecom"}
+{"BrandID": 107,"Brand": "Alcatel","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 108,"Brand": "LG","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 109,"Brand": "Samsung","HardwareDesigner": "Samsung Electronics","Manufacturer": "Wingtech Mobile"}
+{"BrandID": 110,"Brand": "Lenovo","HardwareDesigner": "Lenovo","Manufacturer": "Shenzhen TINNO Mobile Technology"}
+{"BrandID": 111,"Brand": "Samsung","HardwareDesigner": "Wingtech Mobile","Manufacturer": "Wingtech Mobile"}
+{"BrandID": 112,"Brand": "Samsung","HardwareDesigner": "Huaqin Telecom","Manufacturer": ""}
+{"BrandID": 113,"Brand": "VinSmart","HardwareDesigner": "VinSmart","Manufacturer": "VinSmart"}
+{"BrandID": 114,"Brand": "FIH","HardwareDesigner": "Foxconn","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 115,"Brand": "Archos","HardwareDesigner": "Archos","Manufacturer": ""}
+{"BrandID": 116,"Brand": "Motorola","HardwareDesigner": "Lenovo","Manufacturer": "Shenzhen TINNO Mobile Technology"}
+{"BrandID": 117,"Brand": "Lenovo","HardwareDesigner": "","Manufacturer": "Lenovo"}
+{"BrandID": 118,"Brand": "Lava","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 119,"Brand": "Smartisan","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 120,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Foxconn, Pegatron"}
+{"BrandID": 121,"Brand": "HTC","HardwareDesigner": "Fortune Ship International Industrial","Manufacturer": "Fortune Ship International Industrial"}
+{"BrandID": 122,"Brand": "Teclast","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 123,"Brand": "Google","HardwareDesigner": "HTC","Manufacturer": ""}
+{"BrandID": 124,"Brand": "Tecno Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 125,"Brand": "T-Mobile","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 126,"Brand": "Infinix","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 127,"Brand": "Telstra","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 128,"Brand": "Panasonic","HardwareDesigner": "Panasonic","Manufacturer": ""}
+{"BrandID": 129,"Brand": "RIM","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 130,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Huami"}
+{"BrandID": 131,"Brand": "Cubot","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 132,"Brand": "Doogee","HardwareDesigner": "Shenzhen KVD Communication Equipment","Manufacturer": "Shenzhen KVD Communication Equipment"}
+{"BrandID": 133,"Brand": "Planet Computers","HardwareDesigner": "Planet Computers","Manufacturer": ""}
+{"BrandID": 134,"Brand": "Infinix","HardwareDesigner": "Infinix Mobility","Manufacturer": "Infinix Mobility"}
+{"BrandID": 135,"Brand": "Infinix","HardwareDesigner": "Infinix Mobility","Manufacturer": ""}
+{"BrandID": 136,"Brand": "Innos","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 137,"Brand": "Sharp","HardwareDesigner": "Sharp","Manufacturer": "Foxconn"}
+{"BrandID": 138,"Brand": "Allview","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 139,"Brand": "Allview","HardwareDesigner": "GiONEE Communications Equipment","Manufacturer": "GiONEE Communications Equipment"}
+{"BrandID": 140,"Brand": "Unihertz","HardwareDesigner": "Unihertz","Manufacturer": ""}
+{"BrandID": 141,"Brand": "QMobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 142,"Brand": "Evolveo","HardwareDesigner": "Abacus Electric","Manufacturer": "Abacus Electric"}
+{"BrandID": 143,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Flextronics Technologies"}
+{"BrandID": 144,"Brand": "Blackview","HardwareDesigner": "Shenzhen JEKO Communication","Manufacturer": "Shenzhen JEKO Communication"}
+{"BrandID": 145,"Brand": "GFive","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 146,"Brand": "GFive","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 147,"Brand": "Smartisan","HardwareDesigner": "Matsunichi Digital Development","Manufacturer": "Matsunichi Digital Development"}
+{"BrandID": 148,"Brand": "Blackview","HardwareDesigner": "Shenzhen KVD Communication Equipment","Manufacturer": "Shenzhen KVD Communication Equipment"}
+{"BrandID": 149,"Brand": "Oukitel","HardwareDesigner": "Yunji Intelligent Technology","Manufacturer": ""}
+{"BrandID": 150,"Brand": "Doogee","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 151,"Brand": "Figgers","HardwareDesigner": "Yunji Intelligent Technology","Manufacturer": ""}
+{"BrandID": 152,"Brand": "Diesel","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 153,"Brand": "Fxtec","HardwareDesigner": "Fxtec","Manufacturer": ""}
+{"BrandID": 154,"Brand": "uleFone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 155,"Brand": "Figgers","HardwareDesigner": "Figgers Communication","Manufacturer": ""}
+{"BrandID": 156,"Brand": "HTC","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 157,"Brand": "uleFone","HardwareDesigner": "Yunji Intelligent Technology","Manufacturer": "Yunji Intelligent Technology"}
+{"BrandID": 158,"Brand": "Oukitel","HardwareDesigner": "Yunji Intelligent Technology","Manufacturer": "Yunji Intelligent Technology"}
+{"BrandID": 159,"Brand": "Noa","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 160,"Brand": "Oukitel","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 161,"Brand": "Hisense","HardwareDesigner": "Hisense","Manufacturer": ""}
+{"BrandID": 162,"Brand": "Panasonic","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 163,"Brand": "UMI","HardwareDesigner": "UMI","Manufacturer": ""}
+{"BrandID": 164,"Brand": "UMI","HardwareDesigner": "Umidigi Technology Co.. Ltd.","Manufacturer": ""}
+{"BrandID": 165,"Brand": "Haier","HardwareDesigner": "Haier Electrical Appliances","Manufacturer": ""}
+{"BrandID": 166,"Brand": "Orange","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 167,"Brand": "Konrow","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 168,"Brand": "Coolpad","HardwareDesigner": "Yulong Computer","Manufacturer": "Yulong Computer"}
+{"BrandID": 169,"Brand": "Haier","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 170,"Brand": "Jivi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 171,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Meitu Mobile"}
+{"BrandID": 172,"Brand": "Goclever","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 173,"Brand": "uleFone","HardwareDesigner": "Ulefone Mobile","Manufacturer": "Shenzen Gotron Electronic Co. Ltd."}
+{"BrandID": 174,"Brand": "T-Mobile","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Lenovo"}
+{"BrandID": 175,"Brand": "Meitu","HardwareDesigner": "Meitu Mobile","Manufacturer": "Meitu Mobile"}
+{"BrandID": 176,"Brand": "Google","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 177,"Brand": "KT","HardwareDesigner": "","Manufacturer": "Hytera Communications"}
+{"BrandID": 178,"Brand": "Panasonic","HardwareDesigner": "Panasonic","Manufacturer": "Panasonic Mobile Communications"}
+{"BrandID": 179,"Brand": "Philips","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 180,"Brand": "Tonino Lamborghini","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 181,"Brand": "Fossil","HardwareDesigner": "Fossil","Manufacturer": ""}
+{"BrandID": 182,"Brand": "Wiko","HardwareDesigner": "Wiko Mobile","Manufacturer": ""}
+{"BrandID": 183,"Brand": "Royole","HardwareDesigner": "Royole","Manufacturer": ""}
+{"BrandID": 184,"Brand": "Kogan","HardwareDesigner": "BenQ Corporation","Manufacturer": "BenQ Corporation"}
+{"BrandID": 185,"Brand": "China Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 186,"Brand": "Sico","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 187,"Brand": "TCL","HardwareDesigner": "Palm","Manufacturer": "TCL"}
+{"BrandID": 188,"Brand": "Vodafone","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 189,"Brand": "Koobee","HardwareDesigner": "Shenzen Koobee Communication Co.,Ltd.","Manufacturer": "Shenzen Koobee Communication Co.,Ltd."}
+{"BrandID": 190,"Brand": "Telstra","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 191,"Brand": "Samsung","HardwareDesigner": "Samsung Electronics","Manufacturer": "Wintech"}
+{"BrandID": 192,"Brand": "Energizer","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 193,"Brand": "Elephone","HardwareDesigner": "Elephone Communication","Manufacturer": ""}
+{"BrandID": 194,"Brand": "Elephone","HardwareDesigner": "Elephone Communication","Manufacturer": "Elephone Communication"}
+{"BrandID": 195,"Brand": "Koolnee","HardwareDesigner": "Koolnee","Manufacturer": "Koolnee"}
+{"BrandID": 196,"Brand": "Panasonic","HardwareDesigner": "Panasonic Mobile Communications","Manufacturer": "Panasonic India Pvt. Ltd."}
+{"BrandID": 197,"Brand": "Bkav","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 198,"Brand": "NUU","HardwareDesigner": "NUU Mobile","Manufacturer": "NUU Mobile"}
+{"BrandID": 199,"Brand": "Mobvoi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 200,"Brand": "Panasonic","HardwareDesigner": "Panasonic","Manufacturer": "Panasonic India Pvt. Ltd."}
+{"BrandID": 201,"Brand": "Montblanc","HardwareDesigner": "Montblanc International","Manufacturer": ""}
+{"BrandID": 202,"Brand": "RED","HardwareDesigner": "RED Technologies","Manufacturer": "RED Technologies"}
+{"BrandID": 203,"Brand": "Thuraya","HardwareDesigner": "Thuraya","Manufacturer": ""}
+{"BrandID": 204,"Brand": "Amazon","HardwareDesigner": "Amazon","Manufacturer": "Amazon"}
+{"BrandID": 205,"Brand": "Amazon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 206,"Brand": "Google","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 207,"Brand": "Blu","HardwareDesigner": "Blu Products","Manufacturer": "Blu Products"}
+{"BrandID": 208,"Brand": "Zeblaze","HardwareDesigner": "Shenzhen Zeblaze Technology Co.Ltd","Manufacturer": "Shenzhen Zeblaze Technology Co.Ltd"}
+{"BrandID": 209,"Brand": "Vodafone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 210,"Brand": "Micromax","HardwareDesigner": "YU Televentures","Manufacturer": "Micromax Informatics"}
+{"BrandID": 211,"Brand": "Zopo","HardwareDesigner": "Zopo","Manufacturer": "Zopo"}
+{"BrandID": 212,"Brand": "VKWorld","HardwareDesigner": "Shenzhen RuiErsheng Technology Co.","Manufacturer": "Shenzhen RuiErsheng Technology Co."}
+{"BrandID": 213,"Brand": "Positivo","HardwareDesigner": "Positivo","Manufacturer": ""}
+{"BrandID": 214,"Brand": "Sharp","HardwareDesigner": "Foxconn","Manufacturer": "InFocus Corporation"}
+{"BrandID": 215,"Brand": "Coolpad","HardwareDesigner": "Yulong Computer","Manufacturer": "MCM Telecom Equipment"}
+{"BrandID": 216,"Brand": "Orange","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 217,"Brand": "Orange","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 218,"Brand": "Gome","HardwareDesigner": "Gome Communication Equipment","Manufacturer": "Zhejiang Dejing Electronic Technology"}
+{"BrandID": 219,"Brand": "AdvanceTC","HardwareDesigner": "AdvanceTC Group","Manufacturer": "AdvanceTC Group"}
+{"BrandID": 220,"Brand": "Snail","HardwareDesigner": "Suzhou Snail Digital Technology","Manufacturer": "Suzhou Snail Digital Technology"}
+{"BrandID": 221,"Brand": "Poptel","HardwareDesigner": "Poptel","Manufacturer": "Poptel"}
+{"BrandID": 222,"Brand": "InnJoo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 223,"Brand": "RIM","HardwareDesigner": "Optiemus Electronics Ltd.","Manufacturer": "Optiemus Electronics Ltd."}
+{"BrandID": 224,"Brand": "Highscreen","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 225,"Brand": "Intex","HardwareDesigner": "Intex Mobile","Manufacturer": "Intex Mobile"}
+{"BrandID": 226,"Brand": "Fossil","HardwareDesigner": "Fossil","Manufacturer": "Fossil"}
+{"BrandID": 227,"Brand": "Movado","HardwareDesigner": "Movado","Manufacturer": "Fossil"}
+{"BrandID": 228,"Brand": "TP-Link","HardwareDesigner": "TP-Link Technologies","Manufacturer": "TP-Link Technologies"}
+{"BrandID": 229,"Brand": "Misfit","HardwareDesigner": "Misfit","Manufacturer": "Fossil"}
+{"BrandID": 230,"Brand": "Kate Spade","HardwareDesigner": "Kate Spade","Manufacturer": "Fossil"}
+{"BrandID": 231,"Brand": "Emporio Armani","HardwareDesigner": "Emporio Armani","Manufacturer": "Fossil"}
+{"BrandID": 232,"Brand": "Michael Kors","HardwareDesigner": "Michael Kors","Manufacturer": "Fossil"}
+{"BrandID": 233,"Brand": "Konka","HardwareDesigner": "Shenzhen Konka Telecommunications Techno","Manufacturer": "Shenzhen Konka Telecommunications Techno"}
+{"BrandID": 234,"Brand": "GlocalMe","HardwareDesigner": "Shenzhen uCloudlink Network Technology","Manufacturer": "Shenzhen uCloudlink Network Technology"}
+{"BrandID": 235,"Brand": "Caterpillar","HardwareDesigner": "Bullitt Group","Manufacturer": "Compal Electronics"}
+{"BrandID": 236,"Brand": "Cubot","HardwareDesigner": "CUBOT","Manufacturer": "Shenzen Huafurui Technology Co. Ltd."}
+{"BrandID": 237,"Brand": "Multilaser","HardwareDesigner": "Multilaser","Manufacturer": "Multilaser"}
+{"BrandID": 238,"Brand": "Zebra","HardwareDesigner": "Zebra Technologies Corporation","Manufacturer": "Zebra Technologies Corporation"}
+{"BrandID": 239,"Brand": "Pebble","HardwareDesigner": "Pebble Technology","Manufacturer": "Foxlink"}
+{"BrandID": 240,"Brand": "Land Rover","HardwareDesigner": "Bullitt Group","Manufacturer": "Compal Electronics"}
+{"BrandID": 241,"Brand": "Four Mobile","HardwareDesigner": "Axiom Telekom","Manufacturer": ""}
+{"BrandID": 242,"Brand": "TrueSmart","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 243,"Brand": "Panasonic","HardwareDesigner": "TCL","Manufacturer": "TCL"}
+{"BrandID": 244,"Brand": "LEAGOO","HardwareDesigner": "OTEDA Industrial","Manufacturer": "OTEDA Industrial"}
+{"BrandID": 245,"Brand": "BQ","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 246,"Brand": "Sharp","HardwareDesigner": "Foxconn","Manufacturer": ""}
+{"BrandID": 247,"Brand": "InFocus","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 248,"Brand": "Bluboo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 249,"Brand": "Sonim","HardwareDesigner": "Sonim Technologies","Manufacturer": "Sonim Technologies"}
+{"BrandID": 250,"Brand": "MyPhone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 251,"Brand": "Hanmac","HardwareDesigner": "Hanmac","Manufacturer": ""}
+{"BrandID": 252,"Brand": "Iconbit","HardwareDesigner": "","Manufacturer": "Iconbit"}
+{"BrandID": 253,"Brand": "Acer","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 254,"Brand": "Neptune","HardwareDesigner": "Neptune","Manufacturer": ""}
+{"BrandID": 255,"Brand": "Ikimobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 256,"Brand": "Acorn","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 257,"Brand": "Wiko","HardwareDesigner": "","Manufacturer": "Shenzhen TINNO Mobile Technology"}
+{"BrandID": 258,"Brand": "Fairphone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 259,"Brand": "FarEasTone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 260,"Brand": "Pixelphone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 261,"Brand": "Doro","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 262,"Brand": "Luna","HardwareDesigner": "Aries Indo Global","Manufacturer": "Aries Indo Global"}
+{"BrandID": 263,"Brand": "Freetel","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 264,"Brand": "InFocus","HardwareDesigner": "Foxconn","Manufacturer": "InFocus Corporation"}
+{"BrandID": 265,"Brand": "M-Horse","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 266,"Brand": "Karbonn","HardwareDesigner": "","Manufacturer": "Padget Electronics Pvt Ltd."}
+{"BrandID": 267,"Brand": "Karbonn","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 268,"Brand": "AllCall","HardwareDesigner": "Shenzhen AllCall Technology Co.,Ltd","Manufacturer": "Shenzhen AllCall Technology Co.,Ltd"}
+{"BrandID": 269,"Brand": "Keecoo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 270,"Brand": "Oukitel","HardwareDesigner": "Shenzhen Ou Qi Digital Electronics","Manufacturer": "Shenzhen Ou Qi Digital Electronics"}
+{"BrandID": 271,"Brand": "THL","HardwareDesigner": "THL Smart Phone","Manufacturer": ""}
+{"BrandID": 272,"Brand": "TAG Heuer","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 273,"Brand": "Panasonic","HardwareDesigner": "","Manufacturer": "Panasonic India Pvt. Ltd."}
+{"BrandID": 274,"Brand": "ZTE","HardwareDesigner": "","Manufacturer": "ZTE"}
+{"BrandID": 275,"Brand": "Quantum","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 276,"Brand": "GiONEE","HardwareDesigner": "GiONEE Communications Equipment","Manufacturer": ""}
+{"BrandID": 277,"Brand": "GiONEE","HardwareDesigner": "GiONEE Communications Equipment","Manufacturer": "GiONEE Communications Equipment"}
+{"BrandID": 278,"Brand": "Garmin","HardwareDesigner": "Garmin","Manufacturer": "Garmin"}
+{"BrandID": 279,"Brand": "LeEco","HardwareDesigner": "Leshi","Manufacturer": "Leshi"}
+{"BrandID": 280,"Brand": "Qihoo 360","HardwareDesigner": "Qihoo 360 Technologies","Manufacturer": "Qihoo 360 Technologies"}
+{"BrandID": 281,"Brand": "Maze","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 282,"Brand": "Cherry Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 283,"Brand": "Micromax","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 284,"Brand": "Micromax","HardwareDesigner": "Micromax","Manufacturer": "Guandong Maxon Communication Co. Ltd."}
+{"BrandID": 285,"Brand": "Maze","HardwareDesigner": "YOP Communication Technology Co., Ltd.","Manufacturer": ""}
+{"BrandID": 286,"Brand": "Billion","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 287,"Brand": "Maxwest","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 288,"Brand": "Ivoomi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 289,"Brand": "Yamada Denki","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 290,"Brand": "Psion","HardwareDesigner": "Psion","Manufacturer": "Psion"}
+{"BrandID": 291,"Brand": "Itel","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 292,"Brand": "Centric","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 293,"Brand": "Celkon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 294,"Brand": "NTT DoCoMo","HardwareDesigner": "Fujitsu","Manufacturer": "Fujitsu"}
+{"BrandID": 295,"Brand": "Plum Mobile","HardwareDesigner": "","Manufacturer": "Plum Mobile"}
+{"BrandID": 296,"Brand": "Nomu","HardwareDesigner": "Shenzhen Xin KingBrand Enterprises","Manufacturer": "Shenzhen Xin KingBrand Enterprises"}
+{"BrandID": 297,"Brand": "Doov","HardwareDesigner": "Shenzhen Doov Technology","Manufacturer": "Shenzhen Doov Technology"}
+{"BrandID": 298,"Brand": "verykool","HardwareDesigner": "InfoSonics","Manufacturer": "InfoSonics"}
+{"BrandID": 299,"Brand": "Vector","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 300,"Brand": "JXD","HardwareDesigner": "JinXing Digital CO.Ltd","Manufacturer": "JinXing Digital CO.Ltd"}
+{"BrandID": 301,"Brand": "verykool","HardwareDesigner": "InfoSonics","Manufacturer": ""}
+{"BrandID": 302,"Brand": "Tesla","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 303,"Brand": "Tesla","HardwareDesigner": "Comtrade Group","Manufacturer": ""}
+{"BrandID": 304,"Brand": "Microsoft","HardwareDesigner": "Microsoft Mobile","Manufacturer": ""}
+{"BrandID": 305,"Brand": "Garmin","HardwareDesigner": "","Manufacturer": "Garmin"}
+{"BrandID": 306,"Brand": "Swipe","HardwareDesigner": "Swipe Technologies","Manufacturer": "Swipe Technologies"}
+{"BrandID": 307,"Brand": "Archos","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 308,"Brand": "Caterpillar","HardwareDesigner": "Bullitt Group","Manufacturer": "Bullitt Group"}
+{"BrandID": 309,"Brand": "Smartfren","HardwareDesigner": "Hisense","Manufacturer": "Qingdao Haier Communications"}
+{"BrandID": 310,"Brand": "Vernee","HardwareDesigner": "New-Bund Technology","Manufacturer": "New-Bund Technology"}
+{"BrandID": 311,"Brand": "Jolla","HardwareDesigner": "Youyota","Manufacturer": ""}
+{"BrandID": 312,"Brand": "Akua Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 313,"Brand": "Elephone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 314,"Brand": "Google","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 315,"Brand": "Alcatel","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 316,"Brand": "Jinga","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 317,"Brand": "PiPO","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 318,"Brand": "Hewlett-Packard","HardwareDesigner": "Hewlett-Packard","Manufacturer": "Hewlett-Packard"}
+{"BrandID": 319,"Brand": "Sugar","HardwareDesigner": "Shenzen Communication Technology Co., SU","Manufacturer": "Shenzen Communication Technology Co., SU"}
+{"BrandID": 320,"Brand": "SoftBank","HardwareDesigner": "P-UP","Manufacturer": ""}
+{"BrandID": 321,"Brand": "TCL","HardwareDesigner": "TCL","Manufacturer": ""}
+{"BrandID": 322,"Brand": "Vodafone","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 323,"Brand": "Nextway","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 324,"Brand": "Neo","HardwareDesigner": "Neo Team Sense","Manufacturer": ""}
+{"BrandID": 325,"Brand": "Safako","HardwareDesigner": "Safako","Manufacturer": ""}
+{"BrandID": 326,"Brand": "Safako","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 327,"Brand": "Kaan","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 328,"Brand": "Casper","HardwareDesigner": "Casper Computer Systems Inc.","Manufacturer": "Casper Computer Systems Inc."}
+{"BrandID": 329,"Brand": "iNew","HardwareDesigner": "iNew Mobile","Manufacturer": "iNew Mobile"}
+{"BrandID": 330,"Brand": "LYF","HardwareDesigner": "Reliance Retail Ltd.","Manufacturer": "Reliance Retail Ltd."}
+{"BrandID": 331,"Brand": "iNO Mobile","HardwareDesigner": "iNO Mobile","Manufacturer": "Foresight Manufacture"}
+{"BrandID": 332,"Brand": "Vestel","HardwareDesigner": "Vestel Electronic","Manufacturer": "Vestel Electronic"}
+{"BrandID": 333,"Brand": "Polaroid","HardwareDesigner": "JSR Technology","Manufacturer": "JSR Technology"}
+{"BrandID": 334,"Brand": "NGM","HardwareDesigner": "New Generation Mobile","Manufacturer": "GiONEE Communications Equipment"}
+{"BrandID": 335,"Brand": "BenQ","HardwareDesigner": "BenQ Corporation","Manufacturer": ""}
+{"BrandID": 336,"Brand": "Karbonn","HardwareDesigner": "","Manufacturer": "A-MAX Technology (China) Ltd."}
+{"BrandID": 337,"Brand": "Yota","HardwareDesigner": "Yota Devices Ltd.","Manufacturer": "Yulong Computer"}
+{"BrandID": 338,"Brand": "Ziox","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 339,"Brand": "Videocon","HardwareDesigner": "","Manufacturer": "Videocon Industries"}
+{"BrandID": 340,"Brand": "Videocon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 341,"Brand": "Micromax","HardwareDesigner": "Micromax","Manufacturer": "Micromax"}
+{"BrandID": 342,"Brand": "Sharp","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 343,"Brand": "Louis Vuitton","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 344,"Brand": "Telstra","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 345,"Brand": "KDDI","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 346,"Brand": "New Balance","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 347,"Brand": "Essential","HardwareDesigner": "","Manufacturer": "FIH Precision Electronics"}
+{"BrandID": 348,"Brand": "Intex","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 349,"Brand": "QiKU","HardwareDesigner": "Yulong Computer","Manufacturer": "Yulong Computer"}
+{"BrandID": 350,"Brand": "Sprint","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 351,"Brand": "Verizon","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 352,"Brand": "Archos","HardwareDesigner": "Archos","Manufacturer": "Archos"}
+{"BrandID": 353,"Brand": "Navon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 354,"Brand": "Philips","HardwareDesigner": "Sang Fei Consumer Communications","Manufacturer": "Sang Fei Consumer Communications"}
+{"BrandID": 355,"Brand": "Fujitsu","HardwareDesigner": "Fujitsu","Manufacturer": ""}
+{"BrandID": 356,"Brand": "VAIO","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 357,"Brand": "ZTE","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 358,"Brand": "RIM","HardwareDesigner": "BB Merah Putih","Manufacturer": "BB Merah Putih"}
+{"BrandID": 359,"Brand": "Lava","HardwareDesigner": "Lava International","Manufacturer": "Lava International"}
+{"BrandID": 360,"Brand": "Onkyo","HardwareDesigner": "Onkyo","Manufacturer": "Onkyo"}
+{"BrandID": 361,"Brand": "Vertu","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 362,"Brand": "Wileyfox","HardwareDesigner": "Wileyfox","Manufacturer": "Wileyfox"}
+{"BrandID": 363,"Brand": "Meizu","HardwareDesigner": "Meizu","Manufacturer": "Foxconn"}
+{"BrandID": 364,"Brand": "LYF","HardwareDesigner": "Reliance Retail Ltd.","Manufacturer": ""}
+{"BrandID": 365,"Brand": "Firefly Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 366,"Brand": "SoftBank","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 367,"Brand": "ZUK","HardwareDesigner": "Lenovo","Manufacturer": "Beijing ShenQi Technology"}
+{"BrandID": 368,"Brand": "Hyundai","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 369,"Brand": "SoftBank","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 370,"Brand": "DragonBox","HardwareDesigner": "OpenPandora","Manufacturer": ""}
+{"BrandID": 371,"Brand": "Protruly","HardwareDesigner": "Shenzhen Darling Intelligent Technology","Manufacturer": ""}
+{"BrandID": 372,"Brand": "DragonBox","HardwareDesigner": "OpenPandora","Manufacturer": "Global Components"}
+{"BrandID": 373,"Brand": "OKWU","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 374,"Brand": "Polytron","HardwareDesigner": "Hartono Istana Teknologi","Manufacturer": "Hartono Istana Teknologi"}
+{"BrandID": 375,"Brand": "iBall","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 376,"Brand": "NEC","HardwareDesigner": "NEC","Manufacturer": ""}
+{"BrandID": 377,"Brand": "GPD","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 378,"Brand": "Datang","HardwareDesigner": "Datang Telecom Technology","Manufacturer": "Datang Telecom Technology"}
+{"BrandID": 379,"Brand": "UMI","HardwareDesigner": "UMI","Manufacturer": "UMI"}
+{"BrandID": 380,"Brand": "Cube","HardwareDesigner": "Shenzhen Alldo Cube","Manufacturer": "Shenzhen Alldo Cube"}
+{"BrandID": 381,"Brand": "Kodak","HardwareDesigner": "Bullitt Group","Manufacturer": ""}
+{"BrandID": 382,"Brand": "LeEco","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 383,"Brand": "lephone","HardwareDesigner": "Chongqing Blephone Technology","Manufacturer": "Chongqing Blephone Technology"}
+{"BrandID": 384,"Brand": "Lava","HardwareDesigner": "Lava International","Manufacturer": ""}
+{"BrandID": 385,"Brand": "GrunMobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 386,"Brand": "Newman","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 387,"Brand": "LeTV","HardwareDesigner": "Leshi","Manufacturer": "Leshi"}
+{"BrandID": 388,"Brand": "Simputer Trust","HardwareDesigner": "Psion","Manufacturer": "Psion"}
+{"BrandID": 389,"Brand": "Infomark","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 390,"Brand": "Hewlett-Packard","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 391,"Brand": "Obi Worldphone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 392,"Brand": "Polar","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 393,"Brand": "Coship","HardwareDesigner": "Coship Mobile Technology","Manufacturer": "Coship Mobile Technology"}
+{"BrandID": 394,"Brand": "Uhans","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 395,"Brand": "Ringing Bells","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 396,"Brand": "Gigabyte","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 397,"Brand": "SoftBank","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 398,"Brand": "Philips","HardwareDesigner": "Shenzhen Leway Technology","Manufacturer": "Shenzhen Leway Technology"}
+{"BrandID": 399,"Brand": "Overmax","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 400,"Brand": "Sony","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 401,"Brand": "Panasonic","HardwareDesigner": "Panasonic Mobile Communications","Manufacturer": "Panasonic Mobile Communications"}
+{"BrandID": 402,"Brand": "Lumigon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 403,"Brand": "Funkertech","HardwareDesigner": "Coship Mobile Technology","Manufacturer": "Coship Mobile Technology"}
+{"BrandID": 404,"Brand": "O+","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 405,"Brand": "KDDI","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 406,"Brand": "STK","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 407,"Brand": "Leway","HardwareDesigner": "Shenzhen Leway Technology","Manufacturer": "Shenzhen Leway Technology"}
+{"BrandID": 408,"Brand": "KDDI","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 409,"Brand": "ZUK","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 410,"Brand": "Yezz","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 411,"Brand": "Omate","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 412,"Brand": "ARP Mobile","HardwareDesigner": "Cathay Tri-Tech","Manufacturer": "Cathay Tri-Tech"}
+{"BrandID": 413,"Brand": "Creo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 414,"Brand": "Medion","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 415,"Brand": "Jolla","HardwareDesigner": "Iida Electronics","Manufacturer": "Intex Technologies"}
+{"BrandID": 416,"Brand": "Covia","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 417,"Brand": "Azumi Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 418,"Brand": "Jiayu","HardwareDesigner": "JIAYU Electronic Science and Technology","Manufacturer": "JIAYU Electronic Science and Technology"}
+{"BrandID": 419,"Brand": "Koobee","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 420,"Brand": "Pantech","HardwareDesigner": "Hisense","Manufacturer": "Hisense"}
+{"BrandID": 421,"Brand": "Mouse Computer","HardwareDesigner": "Mouse Computer","Manufacturer": "Coship Mobile Technology"}
+{"BrandID": 422,"Brand": "NGM","HardwareDesigner": "Wiko Mobile","Manufacturer": ""}
+{"BrandID": 423,"Brand": "Microsoft","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 424,"Brand": "Intex","HardwareDesigner": "Intex Mobile","Manufacturer": ""}
+{"BrandID": 425,"Brand": "Smartfren","HardwareDesigner": "Hisense","Manufacturer": "Hisense"}
+{"BrandID": 426,"Brand": "KDDI","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 427,"Brand": "Zopo","HardwareDesigner": "Zopo","Manufacturer": ""}
+{"BrandID": 428,"Brand": "Bush Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 429,"Brand": "LANIX","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 430,"Brand": "Blackview","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 431,"Brand": "Huawei","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 432,"Brand": "Mobiistar","HardwareDesigner": "Mobile Star","Manufacturer": "Mobile Star"}
+{"BrandID": 433,"Brand": "Toshiba","HardwareDesigner": "Toshiba","Manufacturer": "Toshiba"}
+{"BrandID": 434,"Brand": "Alcor","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 435,"Brand": "Colors Mobile","HardwareDesigner": "Colors Mobile","Manufacturer": "Colors Mobile"}
+{"BrandID": 436,"Brand": "Kult","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 437,"Brand": "Oppo","HardwareDesigner": "Shenzhen Oneplus Science & Technology","Manufacturer": "BBK Electronics"}
+{"BrandID": 438,"Brand": "VCHOK","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 439,"Brand": "Q-Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 440,"Brand": "i-mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 441,"Brand": "Starmobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 442,"Brand": "Advan","HardwareDesigner": "Advan Digital","Manufacturer": "Advan Digital"}
+{"BrandID": 443,"Brand": "RIM","HardwareDesigner": "RIM","Manufacturer": ""}
+{"BrandID": 444,"Brand": "UPQ","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 445,"Brand": "Vitsmo","HardwareDesigner": "Shenzhen ABCOO Technology","Manufacturer": "Shenzhen ABCOO Technology"}
+{"BrandID": 446,"Brand": "Macoox","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 447,"Brand": "Diginnos Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 448,"Brand": "Cherry Mobile","HardwareDesigner": "Ainol Electronics","Manufacturer": "Ainol Electronics"}
+{"BrandID": 449,"Brand": "Trinity","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 450,"Brand": "Siswoo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 451,"Brand": "Dell","HardwareDesigner": "Dell","Manufacturer": ""}
+{"BrandID": 452,"Brand": "Fossil","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 453,"Brand": "Axioo","HardwareDesigner": "AXIOO International","Manufacturer": "AXIOO International"}
+{"BrandID": 454,"Brand": "Condor","HardwareDesigner": "Condor Electronics","Manufacturer": "Condor Electronics"}
+{"BrandID": 455,"Brand": "Zeblaze","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 456,"Brand": "BenQ","HardwareDesigner": "BenQ Corporation","Manufacturer": "BenQ Corporation"}
+{"BrandID": 457,"Brand": "Ascent","HardwareDesigner": "Shanghai Ascent International","Manufacturer": ""}
+{"BrandID": 458,"Brand": "Pepsi","HardwareDesigner": "henzhen Scooby Communication Equipment","Manufacturer": "henzhen Scooby Communication Equipment"}
+{"BrandID": 459,"Brand": "NVIDIA","HardwareDesigner": "Nvidia","Manufacturer": "Nvidia"}
+{"BrandID": 460,"Brand": "Mouse Computer","HardwareDesigner": "Mouse Computer","Manufacturer": ""}
+{"BrandID": 461,"Brand": "Sprint","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 462,"Brand": "Xiaomi","HardwareDesigner": "Xiaomi","Manufacturer": "Wingtech Mobile"}
+{"BrandID": 463,"Brand": "GPLUS","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 464,"Brand": "Ramos","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 465,"Brand": "Motorola","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": ""}
+{"BrandID": 466,"Brand": "Commodore","HardwareDesigner": "Commodore International","Manufacturer": "Commodore International"}
+{"BrandID": 467,"Brand": "Haier","HardwareDesigner": "Haier Electrical Appliances","Manufacturer": "Haier Electrical Appliances"}
+{"BrandID": 468,"Brand": "Uniscope","HardwareDesigner": "Qidong Uniscope Communication","Manufacturer": "Qidong Uniscope Communication"}
+{"BrandID": 469,"Brand": "HAUS","HardwareDesigner": "Haus Technologies","Manufacturer": "Haus Technologies"}
+{"BrandID": 470,"Brand": "NTT DoCoMo","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 471,"Brand": "NTT DoCoMo","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 472,"Brand": "Silent Circle","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 473,"Brand": "Amazon","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 474,"Brand": "PPTV","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 475,"Brand": "Blaupunkt","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 476,"Brand": "Tencent","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 477,"Brand": "Motorola","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 478,"Brand": "Jolla","HardwareDesigner": "Jolla","Manufacturer": ""}
+{"BrandID": 479,"Brand": "One Five","HardwareDesigner": "Star Digital Technology","Manufacturer": "Star Digital Technology"}
+{"BrandID": 480,"Brand": "iMI","HardwareDesigner": "iMI Tech","Manufacturer": "iMI Tech"}
+{"BrandID": 481,"Brand": "Sony","HardwareDesigner": "Sony","Manufacturer": ""}
+{"BrandID": 482,"Brand": "Pioneer","HardwareDesigner": "Hunan Suning Pioneer Electronics","Manufacturer": "Hunan Suning Pioneer Electronics"}
+{"BrandID": 483,"Brand": "Dell","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 484,"Brand": "KT","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 485,"Brand": "Ubik","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 486,"Brand": "Marshall","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 487,"Brand": "Verizon","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 488,"Brand": "Fossil","HardwareDesigner": "Fossil","Manufacturer": "Flextronics"}
+{"BrandID": 489,"Brand": "iOcean","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 490,"Brand": "Garmin","HardwareDesigner": "Garmin","Manufacturer": ""}
+{"BrandID": 491,"Brand": "RIM","HardwareDesigner": "RIM","Manufacturer": "Foxconn"}
+{"BrandID": 492,"Brand": "Yota","HardwareDesigner": "Yota Devices Ltd.","Manufacturer": "WiMAX Holding Ltd"}
+{"BrandID": 493,"Brand": "BungBungame","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 494,"Brand": "BungBungame","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 495,"Brand": "HTC","HardwareDesigner": "HTC","Manufacturer": "Longcheer"}
+{"BrandID": 496,"Brand": "Sony","HardwareDesigner": "Sony","Manufacturer": "Arima Communications"}
+{"BrandID": 497,"Brand": "Casper","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 498,"Brand": "Colorovo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 499,"Brand": "ViewSonic","HardwareDesigner": "ViewSonic","Manufacturer": "ViewSonic"}
+{"BrandID": 500,"Brand": "T-Mobile","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 501,"Brand": "Prestigio","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 502,"Brand": "KAZAM","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 503,"Brand": "Verizon","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Motorola Mobile Devices"}
+{"BrandID": 504,"Brand": "KAZAM","HardwareDesigner": "Shenzhen Gionee Communication Equipment","Manufacturer": "Shenzhen Gionee Communication Equipment"}
+{"BrandID": 505,"Brand": "RIM","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 506,"Brand": "Sprint","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Motorola Mobile Devices"}
+{"BrandID": 507,"Brand": "KDDI","HardwareDesigner": "Iida Electronics","Manufacturer": "Kyocera Communications"}
+{"BrandID": 508,"Brand": "K-Touch","HardwareDesigner": "Beijing Tianyu Communication Equipment","Manufacturer": "Beijing Tianyu Communication Equipment"}
+{"BrandID": 509,"Brand": "NTT DoCoMo","HardwareDesigner": "Sony","Manufacturer": ""}
+{"BrandID": 510,"Brand": "Fly","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 511,"Brand": "Boss","HardwareDesigner": "Briggs & Spriggs, Inc","Manufacturer": "Briggs & Spriggs, Inc"}
+{"BrandID": 512,"Brand": "Hewlett-Packard","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 513,"Brand": "Kodak","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 514,"Brand": "Saygus","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 515,"Brand": "Nokia","HardwareDesigner": "Nokia","Manufacturer": ""}
+{"BrandID": 516,"Brand": "Nokia","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 517,"Brand": "SFR","HardwareDesigner": "BenQ Corporation","Manufacturer": ""}
+{"BrandID": 518,"Brand": "Microsoft","HardwareDesigner": "Nokia","Manufacturer": "Nokia"}
+{"BrandID": 519,"Brand": "Sprint","HardwareDesigner": "Nokia","Manufacturer": ""}
+{"BrandID": 520,"Brand": "Cherry Mobile","HardwareDesigner": "Cosmic Technologies","Manufacturer": "Cosmic Technologies"}
+{"BrandID": 521,"Brand": "Microsoft","HardwareDesigner": "Nokia","Manufacturer": ""}
+{"BrandID": 522,"Brand": "Linshof","HardwareDesigner": "Linshof Technology Company","Manufacturer": "Linshof Technology Company"}
+{"BrandID": 523,"Brand": "ConCorde","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 524,"Brand": "FPT","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 525,"Brand": "Qualcomm","HardwareDesigner": "Intrinsyc Technologies","Manufacturer": "Intrinsyc Technologies"}
+{"BrandID": 526,"Brand": "Tonino Lamborghini","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 527,"Brand": "Nokia","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 528,"Brand": "Dell","HardwareDesigner": "Dell","Manufacturer": "YAMADA"}
+{"BrandID": 529,"Brand": "Gresso","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 530,"Brand": "Explay","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 531,"Brand": "Google","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": ""}
+{"BrandID": 532,"Brand": "Smartisan","HardwareDesigner": "Smartisan Technology","Manufacturer": "Smartisan Technology"}
+{"BrandID": 533,"Brand": "Nokia","HardwareDesigner": "Microsoft","Manufacturer": ""}
+{"BrandID": 534,"Brand": "Vodafone","HardwareDesigner": "Yulong Computer","Manufacturer": "Yulong Computer"}
+{"BrandID": 535,"Brand": "Hannspree","HardwareDesigner": "Hannspree","Manufacturer": "Hannspree"}
+{"BrandID": 536,"Brand": "Spice","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 537,"Brand": "Hewlett-Packard","HardwareDesigner": "BYD Precision","Manufacturer": "BYD Precision"}
+{"BrandID": 538,"Brand": "NGM","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 539,"Brand": "THL","HardwareDesigner": "THL Smart Phone","Manufacturer": "THL Smart Phone"}
+{"BrandID": 540,"Brand": "Sprint","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 541,"Brand": "Fly","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 542,"Brand": "Vodafone","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 543,"Brand": "Onda","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 544,"Brand": "Dell","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 545,"Brand": "Sony Ericsson","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": ""}
+{"BrandID": 546,"Brand": "Pantech","HardwareDesigner": "Pantech Curitel","Manufacturer": "Pantech Curitel"}
+{"BrandID": 547,"Brand": "Walton","HardwareDesigner": "Walton HI-Tech Industries Ltd.","Manufacturer": "Walton HI-Tech Industries Ltd."}
+{"BrandID": 548,"Brand": "WayteQ","HardwareDesigner": "Wayteq Technology","Manufacturer": "Wayteq Technology"}
+{"BrandID": 549,"Brand": "Prestigio","HardwareDesigner": "Archos","Manufacturer": ""}
+{"BrandID": 550,"Brand": "Ainol","HardwareDesigner": "Ainol Electronics","Manufacturer": "Ainol Electronics"}
+{"BrandID": 551,"Brand": "Xplore","HardwareDesigner": "Xplore Technologies Corp.","Manufacturer": "Xplore Technologies Corp."}
+{"BrandID": 552,"Brand": "Freelander","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 553,"Brand": "Vido","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 554,"Brand": "Nikon","HardwareDesigner": "Nikon","Manufacturer": "Nikon"}
+{"BrandID": 555,"Brand": "BenQ","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 556,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Pegatron"}
+{"BrandID": 557,"Brand": "Goophone","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 558,"Brand": "Disney Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 559,"Brand": "Akortek","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 560,"Brand": "Boeing","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 561,"Brand": "Geeksphone","HardwareDesigner": "Geeksphone","Manufacturer": "Foxconn"}
+{"BrandID": 562,"Brand": "Bluebird","HardwareDesigner": "Bluebird Soft","Manufacturer": "Bluebird Soft"}
+{"BrandID": 563,"Brand": "Sony","HardwareDesigner": "Arima Communications","Manufacturer": "Arima Communications"}
+{"BrandID": 564,"Brand": "Kogan","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 565,"Brand": "SoftBank","HardwareDesigner": "Fujitsu","Manufacturer": "Fujitsu"}
+{"BrandID": 566,"Brand": "Sony","HardwareDesigner": "Sony","Manufacturer": "Foxconn"}
+{"BrandID": 567,"Brand": "O2","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 568,"Brand": "SmartQ","HardwareDesigner": "Smart Devices","Manufacturer": "Smart Devices"}
+{"BrandID": 569,"Brand": "Honeywell","HardwareDesigner": "Honeywell","Manufacturer": ""}
+{"BrandID": 570,"Brand": "Umeox","HardwareDesigner": "Umeox Mobile Limited","Manufacturer": "Umeox Mobile Limited"}
+{"BrandID": 571,"Brand": "Intermec","HardwareDesigner": "Intermec","Manufacturer": ""}
+{"BrandID": 572,"Brand": "SFR","HardwareDesigner": "Yulong Computer","Manufacturer": "Yulong Computer"}
+{"BrandID": 573,"Brand": "Verizon","HardwareDesigner": "Nokia","Manufacturer": "Nokia"}
+{"BrandID": 574,"Brand": "NVIDIA","HardwareDesigner": "Advent Computing","Manufacturer": "Advent Computing"}
+{"BrandID": 575,"Brand": "Sprint","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 576,"Brand": "Tesco","HardwareDesigner": "Wistron","Manufacturer": "Wistron"}
+{"BrandID": 577,"Brand": "Vertu","HardwareDesigner": "Nokia","Manufacturer": "Nokia"}
+{"BrandID": 578,"Brand": "KDDI","HardwareDesigner": "Kyocera Communications","Manufacturer": "Kyocera Communications"}
+{"BrandID": 579,"Brand": "KDDI","HardwareDesigner": "Fujitsu","Manufacturer": "Fujitsu"}
+{"BrandID": 580,"Brand": "Akai","HardwareDesigner": "AKAI","Manufacturer": "AKAI"}
+{"BrandID": 581,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Hongfujin"}
+{"BrandID": 582,"Brand": "Verizon","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 583,"Brand": "Kobo","HardwareDesigner": "Kobo","Manufacturer": "Kobo"}
+{"BrandID": 584,"Brand": "Faea","HardwareDesigner": "Faea","Manufacturer": "Faea"}
+{"BrandID": 585,"Brand": "Google","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 586,"Brand": "Intel","HardwareDesigner": "Intel","Manufacturer": ""}
+{"BrandID": 587,"Brand": "T-Mobile","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 588,"Brand": "Changjiang","HardwareDesigner": "Changjiang","Manufacturer": "Changjiang"}
+{"BrandID": 589,"Brand": "Amoi","HardwareDesigner": "Amoi Electronics","Manufacturer": "Amoi Electronics"}
+{"BrandID": 590,"Brand": "Joinhand","HardwareDesigner": "Joinhand Group","Manufacturer": "Joinhand Group"}
+{"BrandID": 591,"Brand": "Soulycin","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 592,"Brand": "KNC","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 593,"Brand": "Mogu","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 594,"Brand": "Gaoxinqi","HardwareDesigner": "Shenzhen Guangdong","Manufacturer": "Shenzhen Guangdong"}
+{"BrandID": 595,"Brand": "Willcom","HardwareDesigner": "Kyocera Communications","Manufacturer": "Kyocera Communications"}
+{"BrandID": 596,"Brand": "Willcom","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 597,"Brand": "Yatay","HardwareDesigner": "Yatay Electronics (H.K.) Co.,Ltd","Manufacturer": "Yatay Electronics (H.K.) Co.,Ltd"}
+{"BrandID": 598,"Brand": "MSI","HardwareDesigner": "Micro-Star International Co.","Manufacturer": "Micro-Star International Co."}
+{"BrandID": 599,"Brand": "Sencor","HardwareDesigner": "Sencor","Manufacturer": "Sencor"}
+{"BrandID": 600,"Brand": "Eken","HardwareDesigner": "EKEN Electronic","Manufacturer": "EKEN Electronic"}
+{"BrandID": 601,"Brand": "Owen","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 602,"Brand": "Yangtze","HardwareDesigner": "Sinoteck International","Manufacturer": "Sinoteck International"}
+{"BrandID": 603,"Brand": "NEC","HardwareDesigner": "NEC CASIO Mobile Communications","Manufacturer": "NEC CASIO Mobile Communications"}
+{"BrandID": 604,"Brand": "Sony","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": "Sony Ericsson Mobile Communications"}
+{"BrandID": 605,"Brand": "Casio","HardwareDesigner": "NEC CASIO Mobile Communications","Manufacturer": "NEC CASIO Mobile Communications"}
+{"BrandID": 606,"Brand": "Pioneer","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 607,"Brand": "Pioneer","HardwareDesigner": "Pioneer","Manufacturer": "Pioneer"}
+{"BrandID": 608,"Brand": "Media-Droid","HardwareDesigner": "Media-Tech","Manufacturer": "Media-Tech"}
+{"BrandID": 609,"Brand": "Neo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 610,"Brand": "Orange","HardwareDesigner": "Gigabyte Technology","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 611,"Brand": "T-Mobile","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 612,"Brand": "Sprint","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 613,"Brand": "Evolve","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 614,"Brand": "Lenovo","HardwareDesigner": "Lenovo","Manufacturer": ""}
+{"BrandID": 615,"Brand": "Oregon Scientific","HardwareDesigner": "Oregon Scientific","Manufacturer": ""}
+{"BrandID": 616,"Brand": "NTT DoCoMo","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 617,"Brand": "Lava","HardwareDesigner": "Intel","Manufacturer": ""}
+{"BrandID": 618,"Brand": "NTT DoCoMo","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 619,"Brand": "NEC","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 620,"Brand": "Archos","HardwareDesigner": "Archos","Manufacturer": "Foxda"}
+{"BrandID": 621,"Brand": "Archos","HardwareDesigner": "Archos","Manufacturer": "Yifang Digital"}
+{"BrandID": 622,"Brand": "Sharp","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 623,"Brand": "Google","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 624,"Brand": "T-Mobile","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 625,"Brand": "T-Mobile","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 626,"Brand": "T-Mobile","HardwareDesigner": "Nokia","Manufacturer": ""}
+{"BrandID": 627,"Brand": "Sprint","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 628,"Brand": "BN","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 629,"Brand": "Panasonic","HardwareDesigner": "Matsushita Electric","Manufacturer": "Matsushita Electric"}
+{"BrandID": 630,"Brand": "Nokia","HardwareDesigner": "Nokia","Manufacturer": "Compal Electronics"}
+{"BrandID": 631,"Brand": "NTT DoCoMo","HardwareDesigner": "Fujitsu-Toshiba Mobile Communications","Manufacturer": "Fujitsu-Toshiba Mobile Communications"}
+{"BrandID": 632,"Brand": "NTT DoCoMo","HardwareDesigner": "Quanta Computer","Manufacturer": "Quanta Computer"}
+{"BrandID": 633,"Brand": "Verizon","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 634,"Brand": "BN","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 635,"Brand": "Yarvik","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 636,"Brand": "SoftBank","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 637,"Brand": "Lava","HardwareDesigner": "Intel","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 638,"Brand": "Orange","HardwareDesigner": "Intel","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 639,"Brand": "Emobile","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 640,"Brand": "Xiaomi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 641,"Brand": "DataWind","HardwareDesigner": "QUAD Electronics Solutions","Manufacturer": "Datawind"}
+{"BrandID": 642,"Brand": "Orange","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 643,"Brand": "TMN","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 644,"Brand": "KDDI","HardwareDesigner": "Fujitsu-Toshiba Mobile Communications","Manufacturer": "Fujitsu-Toshiba Mobile Communications"}
+{"BrandID": 645,"Brand": "M3Mobile","HardwareDesigner": "Mobile Compia","Manufacturer": "Mobile Compia"}
+{"BrandID": 646,"Brand": "Sony Ericsson","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": "Sony Ericsson Mobile Communications"}
+{"BrandID": 647,"Brand": "T-Mobile","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 648,"Brand": "Sprint","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 649,"Brand": "Rogers","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 650,"Brand": "Motorola","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Quanta Computer"}
+{"BrandID": 651,"Brand": "T-Mobile","HardwareDesigner": "Nokia","Manufacturer": "Compal Electronics"}
+{"BrandID": 652,"Brand": "ViewSonic","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 653,"Brand": "KDDI","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 654,"Brand": "Olivetti","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 655,"Brand": "Acer","HardwareDesigner": "Acer","Manufacturer": "Acer"}
+{"BrandID": 656,"Brand": "Exper","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 657,"Brand": "Sony Ericsson","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": "Sagem"}
+{"BrandID": 658,"Brand": "Ziss","HardwareDesigner": "Ziss HongKong","Manufacturer": "Ziss HongKong"}
+{"BrandID": 659,"Brand": "Optimus","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 660,"Brand": "Vizio","HardwareDesigner": "Chi Mei Communication Systems","Manufacturer": "Chi Mei Communication Systems"}
+{"BrandID": 661,"Brand": "O2","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 662,"Brand": "Cincinnati Bell","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 663,"Brand": "Cincinnati Bell","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 664,"Brand": "Optimus","HardwareDesigner": "ZTE","Manufacturer": "ZTE"}
+{"BrandID": 665,"Brand": "Optimus","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 666,"Brand": "WellcoM","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 667,"Brand": "WellcoM","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 668,"Brand": "WellcoM","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 669,"Brand": "HP Palm","HardwareDesigner": "Palm","Manufacturer": ""}
+{"BrandID": 670,"Brand": "Rogers","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 671,"Brand": "RoverPC","HardwareDesigner": "Toshiba","Manufacturer": "Toshiba"}
+{"BrandID": 672,"Brand": "Spice","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 673,"Brand": "Orange","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 674,"Brand": "Mobile Compia","HardwareDesigner": "Mobile Compia","Manufacturer": "Mobile Compia"}
+{"BrandID": 675,"Brand": "INQ","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 676,"Brand": "Vodafone","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 677,"Brand": "Rogers","HardwareDesigner": "LG Electronics","Manufacturer": "LG Electronics"}
+{"BrandID": 678,"Brand": "RIM","HardwareDesigner": "RIM","Manufacturer": "Quanta Computer"}
+{"BrandID": 679,"Brand": "Casio","HardwareDesigner": "Casio","Manufacturer": ""}
+{"BrandID": 680,"Brand": "NTT DoCoMo","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": ""}
+{"BrandID": 681,"Brand": "NTT DoCoMo","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": "Sony Ericsson Mobile Communications"}
+{"BrandID": 682,"Brand": "QiGi","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 683,"Brand": "QiGi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 684,"Brand": "Telstra","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 685,"Brand": "Viliv","HardwareDesigner": "Yukyung Technologies","Manufacturer": "Yukyung Technologies"}
+{"BrandID": 686,"Brand": "Commtiva","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 687,"Brand": "MAG","HardwareDesigner": "MAG Digital","Manufacturer": "MAG Digital"}
+{"BrandID": 688,"Brand": "SoftBank","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 689,"Brand": "T-Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 690,"Brand": "Red Bull Mobile","HardwareDesigner": "Huawei","Manufacturer": "Huawei"}
+{"BrandID": 691,"Brand": "Creative","HardwareDesigner": "Creative Technology","Manufacturer": "Creative Technology"}
+{"BrandID": 692,"Brand": "Palm","HardwareDesigner": "Palm","Manufacturer": ""}
+{"BrandID": 693,"Brand": "Motorola","HardwareDesigner": "Motorola Enterprise Mobility Solutions","Manufacturer": "Motorola Mobile Devices"}
+{"BrandID": 694,"Brand": "Altek","HardwareDesigner": "Altek","Manufacturer": "Altek"}
+{"BrandID": 695,"Brand": "Sanyo","HardwareDesigner": "Kyocera Communications","Manufacturer": "Kyocera Communications"}
+{"BrandID": 696,"Brand": "SoftBank","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 697,"Brand": "Dopod","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 698,"Brand": "Interpad","HardwareDesigner": "e-noa","Manufacturer": "e-noa"}
+{"BrandID": 699,"Brand": "Athesi","HardwareDesigner": "Mobile Compia","Manufacturer": "Mobile Compia"}
+{"BrandID": 700,"Brand": "Motorola","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 701,"Brand": "NTT DoCoMo","HardwareDesigner": "Toshiba","Manufacturer": "Toshiba"}
+{"BrandID": 702,"Brand": "Philips","HardwareDesigner": "Philips","Manufacturer": "Philips"}
+{"BrandID": 703,"Brand": "Unitech","HardwareDesigner": "Unitech Electronics","Manufacturer": "Unitech Electronics"}
+{"BrandID": 704,"Brand": "Argox","HardwareDesigner": "Argox Information","Manufacturer": "Argox Information"}
+{"BrandID": 705,"Brand": "FirstOne","HardwareDesigner": "FirstOne Technology","Manufacturer": "FirstOne Technology"}
+{"BrandID": 706,"Brand": "Psion Teklogix","HardwareDesigner": "Psion Teklogix","Manufacturer": "Psion Teklogix"}
+{"BrandID": 707,"Brand": "Acer","HardwareDesigner": "Foxconn","Manufacturer": "Chi Mei Communication Systems"}
+{"BrandID": 708,"Brand": "Forsa","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 709,"Brand": "Forsa","HardwareDesigner": "Forsa Multimedia","Manufacturer": ""}
+{"BrandID": 710,"Brand": "Hivision","HardwareDesigner": "Hivision","Manufacturer": "Hivision"}
+{"BrandID": 711,"Brand": "EinsUndEins","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 712,"Brand": "Inventec","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 713,"Brand": "HOTT","HardwareDesigner": "Hongfutai E-Tech","Manufacturer": "Hongfutai E-Tech"}
+{"BrandID": 714,"Brand": "Camangi","HardwareDesigner": "Camangi","Manufacturer": "Camangi"}
+{"BrandID": 715,"Brand": "MENQ","HardwareDesigner": "MENQ International Limited","Manufacturer": "MENQ International Limited"}
+{"BrandID": 716,"Brand": "Optima","HardwareDesigner": "Optima Technology","Manufacturer": "Optima Technology"}
+{"BrandID": 717,"Brand": "SMiT","HardwareDesigner": "SMiT","Manufacturer": "SMiT"}
+{"BrandID": 718,"Brand": "RoverPC","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 719,"Brand": "RoverPC","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 720,"Brand": "Motorola","HardwareDesigner": "Symbol Technologies","Manufacturer": "Motorola Mobile Devices"}
+{"BrandID": 721,"Brand": "DataWind","HardwareDesigner": "Datawind","Manufacturer": "Datawind"}
+{"BrandID": 722,"Brand": "Garmin-Asus","HardwareDesigner": "Garmin-Asus","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 723,"Brand": "Datalogic Mobile","HardwareDesigner": "Datalogic Mobile","Manufacturer": "Datalogic Mobile"}
+{"BrandID": 724,"Brand": "Microsoft","HardwareDesigner": "Sharp","Manufacturer": "Sharp"}
+{"BrandID": 725,"Brand": "T-Mobile","HardwareDesigner": "Garmin-Asus","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 726,"Brand": "Sunno","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 727,"Brand": "Tinnos","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 728,"Brand": "ICD","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 729,"Brand": "enTourage","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 730,"Brand": "Notion Ink","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 731,"Brand": "AnyDATA","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 732,"Brand": "AnyDATA","HardwareDesigner": "AnyDATA","Manufacturer": "AnyDATA"}
+{"BrandID": 733,"Brand": "Gigabyte","HardwareDesigner": "Gigabyte Communications","Manufacturer": "Gigabyte Communications"}
+{"BrandID": 734,"Brand": "Mio","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 735,"Brand": "Gigabyte","HardwareDesigner": "Commtiva","Manufacturer": "Commtiva"}
+{"BrandID": 736,"Brand": "Pharos","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 737,"Brand": "Acer","HardwareDesigner": "Foxconn","Manufacturer": ""}
+{"BrandID": 738,"Brand": "Vodafone","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 739,"Brand": "LG","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 740,"Brand": "Cowon","HardwareDesigner": "COWON Systems","Manufacturer": "COWON Systems"}
+{"BrandID": 741,"Brand": "NTT DoCoMo","HardwareDesigner": "Samsung Electronics","Manufacturer": "Samsung Electronics"}
+{"BrandID": 742,"Brand": "Navigon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 743,"Brand": "Acer","HardwareDesigner": "Compal Electronics","Manufacturer": "Compal Electronics"}
+{"BrandID": 744,"Brand": "Stuart Hughes","HardwareDesigner": "RIM, Stuart Hughes","Manufacturer": "RIM, Stuart Hughes"}
+{"BrandID": 745,"Brand": "Stuart Hughes","HardwareDesigner": "Apple","Manufacturer": "Foxconn, Stuart Hughes"}
+{"BrandID": 746,"Brand": "Stuart Hughes","HardwareDesigner": "Nokia, Stuart Hughes","Manufacturer": "Nokia, Stuart Hughes"}
+{"BrandID": 747,"Brand": "Sitronics","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 748,"Brand": "Highscreen","HardwareDesigner": "Geeksphone","Manufacturer": "Foxconn"}
+{"BrandID": 749,"Brand": "Highscreen","HardwareDesigner": "Mobinnova","Manufacturer": "Foxconn"}
+{"BrandID": 750,"Brand": "Shenzhen Hidiyin","HardwareDesigner": "Shenzhen Hidiyin Electronic Technology","Manufacturer": "Shenzhen Hidiyin Electronic Technology"}
+{"BrandID": 751,"Brand": "Neonode","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 752,"Brand": "Motorola","HardwareDesigner": "Motorola Enterprise Mobility Solutions","Manufacturer": "Motorola Enterprise Mobility Solutions"}
+{"BrandID": 753,"Brand": "Getac","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 754,"Brand": "Palm","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 755,"Brand": "Sharper Image","HardwareDesigner": "Amoi Electronics","Manufacturer": "Amoi Electronics"}
+{"BrandID": 756,"Brand": "Emobile","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 757,"Brand": "Alcatel","HardwareDesigner": "Geeksphone","Manufacturer": "Foxconn"}
+{"BrandID": 758,"Brand": "Rogers","HardwareDesigner": "RIM","Manufacturer": "RIM"}
+{"BrandID": 759,"Brand": "Palm","HardwareDesigner": "Palm","Manufacturer": "Palm"}
+{"BrandID": 760,"Brand": "Hewlett-Packard","HardwareDesigner": "Pegatron","Manufacturer": "Pegatron"}
+{"BrandID": 761,"Brand": "JoinTech","HardwareDesigner": "Join Technology","Manufacturer": "Join Technology"}
+{"BrandID": 762,"Brand": "ThreeK","HardwareDesigner": "3K Computers","Manufacturer": "3K Computers"}
+{"BrandID": 763,"Brand": "HKC","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 764,"Brand": "HKC","HardwareDesigner": "SIM Technology Group","Manufacturer": "SIM Technology Group"}
+{"BrandID": 765,"Brand": "Wanxin","HardwareDesigner": "Wanxin Image","Manufacturer": "Wanxin Image"}
+{"BrandID": 766,"Brand": "O2","HardwareDesigner": "Pantech Curitel","Manufacturer": "Pantech Curitel"}
+{"BrandID": 767,"Brand": "Babiken","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 768,"Brand": "Simvalley Mobile","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 769,"Brand": "Mobinnova","HardwareDesigner": "Mobinnova","Manufacturer": "Foxconn"}
+{"BrandID": 770,"Brand": "WayteQ","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 771,"Brand": "Acer","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 772,"Brand": "NDrive","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 773,"Brand": "Symorp","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 774,"Brand": "CompuLab","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 775,"Brand": "RealAegis","HardwareDesigner": "Real Aegis Technology Group Limited","Manufacturer": "Real Aegis Technology Group Limited"}
+{"BrandID": 776,"Brand": "Palm","HardwareDesigner": "Palm","Manufacturer": "HTC"}
+{"BrandID": 777,"Brand": "Tibo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 778,"Brand": "NaviGoo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 779,"Brand": "DreimGO","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 780,"Brand": "TechFaith","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 781,"Brand": "Trimble","HardwareDesigner": "Trimble","Manufacturer": "Trimble"}
+{"BrandID": 782,"Brand": "RoverPC","HardwareDesigner": "SIM Technology Group","Manufacturer": "SIM Technology Group"}
+{"BrandID": 783,"Brand": "RoverPC","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 784,"Brand": "UTStarcom","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 785,"Brand": "Pharos","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 786,"Brand": "Pharos","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 787,"Brand": "The Medical Phone","HardwareDesigner": "The Medical Phone","Manufacturer": ""}
+{"BrandID": 788,"Brand": "Airis","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 789,"Brand": "NDrive","HardwareDesigner": "SIM Technology Group","Manufacturer": "SIM Technology Group"}
+{"BrandID": 790,"Brand": "NDrive","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 791,"Brand": "TELE System","HardwareDesigner": "TELE System Electronic","Manufacturer": "TELE System Electronic"}
+{"BrandID": 792,"Brand": "CipherLab","HardwareDesigner": "CIPHERLAB","Manufacturer": "CIPHERLAB"}
+{"BrandID": 793,"Brand": "Gigabyte","HardwareDesigner": "Gigabyte Technology","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 794,"Brand": "O2","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 795,"Brand": "I-Mate","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 796,"Brand": "Clearview","HardwareDesigner": "Clearview Technology","Manufacturer": "Clearview Technology"}
+{"BrandID": 797,"Brand": "Airis","HardwareDesigner": "SIM Technology Group","Manufacturer": "SIM Technology Group"}
+{"BrandID": 798,"Brand": "Motorola","HardwareDesigner": "Motorola Mobile Devices","Manufacturer": "Compal Electronics"}
+{"BrandID": 799,"Brand": "Opticon","HardwareDesigner": "Opticon","Manufacturer": "Opticon"}
+{"BrandID": 800,"Brand": "Compaq","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 801,"Brand": "Compaq","HardwareDesigner": "Casio Computer","Manufacturer": "Casio Computer"}
+{"BrandID": 802,"Brand": "Philips","HardwareDesigner": "Royal Philips Electronics","Manufacturer": "Royal Philips Electronics"}
+{"BrandID": 803,"Brand": "Apple","HardwareDesigner": "Apple","Manufacturer": "Apple Computer"}
+{"BrandID": 804,"Brand": "ZyXel","HardwareDesigner": "ZyXEL Communications UK","Manufacturer": "ZyXEL Communications UK"}
+{"BrandID": 805,"Brand": "DAP","HardwareDesigner": "DAP Technologies","Manufacturer": "DAP Technologies"}
+{"BrandID": 806,"Brand": "Daxian","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 807,"Brand": "Daxian","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 808,"Brand": "Verzio","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 809,"Brand": "Airo","HardwareDesigner": "Airo Wireless","Manufacturer": "Airo Wireless"}
+{"BrandID": 810,"Brand": "ThinkNavi","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 811,"Brand": "Vodafone","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 812,"Brand": "E-TEN","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 813,"Brand": "Sony Ericsson","HardwareDesigner": "Sony Ericsson Mobile Communications","Manufacturer": "HTC"}
+{"BrandID": 814,"Brand": "Altina","HardwareDesigner": "Union Rich Development","Manufacturer": "Union Rich Development"}
+{"BrandID": 815,"Brand": "Socket Mobile","HardwareDesigner": "Socket Mobile","Manufacturer": "Socket Mobile"}
+{"BrandID": 816,"Brand": "ICD","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 817,"Brand": "General Mobile","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 818,"Brand": "PalmOne","HardwareDesigner": "Palm","Manufacturer": "Palm"}
+{"BrandID": 819,"Brand": "Tapwave","HardwareDesigner": "Tapwave","Manufacturer": "Tapwave"}
+{"BrandID": 820,"Brand": "PalmOne","HardwareDesigner": "Handspring","Manufacturer": "Handspring"}
+{"BrandID": 821,"Brand": "Handspring","HardwareDesigner": "Handspring","Manufacturer": "Handspring"}
+{"BrandID": 822,"Brand": "Acer","HardwareDesigner": "Wistron","Manufacturer": "Wistron"}
+{"BrandID": 823,"Brand": "IBM","HardwareDesigner": "Palm","Manufacturer": "Palm"}
+{"BrandID": 824,"Brand": "HandEra","HardwareDesigner": "HandEra","Manufacturer": "HandEra"}
+{"BrandID": 825,"Brand": "Palm","HardwareDesigner": "Palm Computing","Manufacturer": "Palm Computing"}
+{"BrandID": 826,"Brand": "IBM","HardwareDesigner": "Palm Computing","Manufacturer": "Palm Computing"}
+{"BrandID": 827,"Brand": "Qualcomm","HardwareDesigner": "Qualcomm","Manufacturer": "Qualcomm"}
+{"BrandID": 828,"Brand": "3Com","HardwareDesigner": "Palm Computing","Manufacturer": "Palm Computing"}
+{"BrandID": 829,"Brand": "Symbol","HardwareDesigner": "Palm Computing","Manufacturer": "Palm Computing"}
+{"BrandID": 830,"Brand": "U.S. Robotics","HardwareDesigner": "Palm Computing","Manufacturer": "Palm Computing"}
+{"BrandID": 831,"Brand": "SoftBank","HardwareDesigner": "Nokia","Manufacturer": "Nokia"}
+{"BrandID": 832,"Brand": "Abocom","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 833,"Brand": "Nokia","HardwareDesigner": "BenQ Corporation","Manufacturer": "BenQ Corporation"}
+{"BrandID": 834,"Brand": "Arima","HardwareDesigner": "Arima Communications","Manufacturer": "Arima Communications"}
+{"BrandID": 835,"Brand": "Ericsson","HardwareDesigner": "Ericsson","Manufacturer": "Ericsson"}
+{"BrandID": 836,"Brand": "Vodafone","HardwareDesigner": "Toshiba","Manufacturer": "Toshiba"}
+{"BrandID": 837,"Brand": "Sendo","HardwareDesigner": "Sendo","Manufacturer": "Sendo"}
+{"BrandID": 838,"Brand": "MWg","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 839,"Brand": "MWg","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 840,"Brand": "RoverPC","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 841,"Brand": "RoverPC","HardwareDesigner": "Wistron","Manufacturer": "Wistron"}
+{"BrandID": 842,"Brand": "RoverPC","HardwareDesigner": "Amoi Electronics","Manufacturer": "Amoi Electronics"}
+{"BrandID": 843,"Brand": "Qtek","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 844,"Brand": "Orange","HardwareDesigner": "Amoi Electronics","Manufacturer": "Amoi Electronics"}
+{"BrandID": 845,"Brand": "ORSiO","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 846,"Brand": "iDO","HardwareDesigner": "Kinpo Electronics","Manufacturer": "Kinpo Electronics"}
+{"BrandID": 847,"Brand": "I-Mate","HardwareDesigner": "Mobinnova","Manufacturer": "Foxconn"}
+{"BrandID": 848,"Brand": "Siemens","HardwareDesigner": "Siemens","Manufacturer": "Siemens"}
+{"BrandID": 849,"Brand": "Vodafone","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 850,"Brand": "Hewlett-Packard","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 851,"Brand": "Hewlett-Packard","HardwareDesigner": "Foxconn","Manufacturer": "Foxconn"}
+{"BrandID": 852,"Brand": "Oregon Scientific","HardwareDesigner": "Oregon Scientific","Manufacturer": "Oregon Scientific"}
+{"BrandID": 853,"Brand": "Geofox","HardwareDesigner": "Geofox","Manufacturer": "Geofox"}
+{"BrandID": 854,"Brand": "Ericsson","HardwareDesigner": "Psion","Manufacturer": "Psion"}
+{"BrandID": 855,"Brand": "Diamond","HardwareDesigner": "Psion","Manufacturer": "Psion"}
+{"BrandID": 856,"Brand": "i-teq","HardwareDesigner": "Lenovo","Manufacturer": "Lenovo"}
+{"BrandID": 857,"Brand": "ORSiO","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 858,"Brand": "Swisscom","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 859,"Brand": "Okwap","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 860,"Brand": "SoftBank","HardwareDesigner": "Toshiba","Manufacturer": "Toshiba"}
+{"BrandID": 861,"Brand": "UBiQUiO","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 862,"Brand": "TORQ","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 863,"Brand": "I-Mate","HardwareDesigner": "Arima Communications","Manufacturer": "Arima Communications"}
+{"BrandID": 864,"Brand": "Orange","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 865,"Brand": "I-Mate","HardwareDesigner": "Inventec","Manufacturer": "Inventec"}
+{"BrandID": 866,"Brand": "Audiovox","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 867,"Brand": "Palm","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 868,"Brand": "izenMobile","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 869,"Brand": "Pharos","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 870,"Brand": "Fujitsu-Siemens","HardwareDesigner": "Andres Industries","Manufacturer": "Andres Industries"}
+{"BrandID": 871,"Brand": "O2","HardwareDesigner": "Arima Communications","Manufacturer": "Arima Communications"}
+{"BrandID": 872,"Brand": "E-TEN","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 873,"Brand": "I-Mate","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 874,"Brand": "AnexTEK","HardwareDesigner": "AnexTEK","Manufacturer": "AnexTEK"}
+{"BrandID": 875,"Brand": "Hewlett-Packard","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 876,"Brand": "Amoi","HardwareDesigner": "TechFaithWireless","Manufacturer": "TechFaithWireless"}
+{"BrandID": 877,"Brand": "UBiQUiO","HardwareDesigner": "Gigabyte Technology","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 878,"Brand": "Zenum","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 879,"Brand": "Airis","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 880,"Brand": "Intermec","HardwareDesigner": "Intermec","Manufacturer": "Intermec"}
+{"BrandID": 881,"Brand": "O2","HardwareDesigner": "Gigabyte Technology","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 882,"Brand": "Airis","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 883,"Brand": "Lobster","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 884,"Brand": "I-Mate","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 885,"Brand": "Typhoon","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 886,"Brand": "RoyalTek","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 887,"Brand": "RoyalTek","HardwareDesigner": "RoyalTek","Manufacturer": "RoyalTek"}
+{"BrandID": 888,"Brand": "Cingular","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 889,"Brand": "Tatung","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 890,"Brand": "RoverPC","HardwareDesigner": "Kinpo Electronics","Manufacturer": "Kinpo Electronics"}
+{"BrandID": 891,"Brand": "Mobile Crossing","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 892,"Brand": "Yakumo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 893,"Brand": "Yakumo","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 894,"Brand": "Fujitsu-Siemens","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 895,"Brand": "Compaq","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 896,"Brand": "i-teq","HardwareDesigner": "Gigabyte Technology","Manufacturer": "Gigabyte Technology"}
+{"BrandID": 897,"Brand": "Krome","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 898,"Brand": "Krome","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 899,"Brand": "Sierra Wireless","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 900,"Brand": "Fourier","HardwareDesigner": "Fourier Systems","Manufacturer": "Fourier Systems"}
+{"BrandID": 901,"Brand": "Fourier","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 902,"Brand": "Typhoon","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 903,"Brand": "Typhoon","HardwareDesigner": "ASUSTeK Computer","Manufacturer": "ASUSTeK Computer"}
+{"BrandID": 904,"Brand": "Fujitsu-Siemens","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 905,"Brand": "MiTAC","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 906,"Brand": "TORQ","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 907,"Brand": "Dallab","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 908,"Brand": "Axia","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 909,"Brand": "BenQ-Siemens","HardwareDesigner": "BenQ Corporation","Manufacturer": "BenQ Corporation"}
+{"BrandID": 910,"Brand": "Bsquare","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 911,"Brand": "Hitachi","HardwareDesigner": "Hitachi","Manufacturer": "Hitachi"}
+{"BrandID": 912,"Brand": "Hyundai","HardwareDesigner": "AnexTEK","Manufacturer": "AnexTEK"}
+{"BrandID": 913,"Brand": "Sagem","HardwareDesigner": "MiTAC","Manufacturer": "MiTAC"}
+{"BrandID": 914,"Brand": "CyberBank","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 915,"Brand": "Fujitsu-Siemens","HardwareDesigner": "Compal Electronics","Manufacturer": "Compal Electronics"}
+{"BrandID": 916,"Brand": "Symbol","HardwareDesigner": "Symbol Technologies","Manufacturer": "Symbol Technologies"}
+{"BrandID": 917,"Brand": "CyberBank","HardwareDesigner": "CyberBank","Manufacturer": "CyberBank"}
+{"BrandID": 918,"Brand": "CyberBank","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 919,"Brand": "Everex","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 920,"Brand": "Everex","HardwareDesigner": "Kinpo Electronics","Manufacturer": "Kinpo Electronics"}
+{"BrandID": 921,"Brand": "Medion","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 922,"Brand": "Data Evolution","HardwareDesigner": "Data Evolution","Manufacturer": "Data Evolution"}
+{"BrandID": 923,"Brand": "Qool","HardwareDesigner": "Kinpo Electronics","Manufacturer": "Kinpo Electronics"}
+{"BrandID": 924,"Brand": "Dell","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 925,"Brand": "Silicon-i","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 926,"Brand": "Sagem","HardwareDesigner": "Sagem","Manufacturer": "Sagem"}
+{"BrandID": 927,"Brand": "AnexTEK","HardwareDesigner": "Wistron","Manufacturer": "Wistron"}
+{"BrandID": 928,"Brand": "Data Evolution","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 929,"Brand": "Audiovox","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 930,"Brand": "Trium","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 931,"Brand": "Everex","HardwareDesigner": "E-TEN","Manufacturer": "E-TEN"}
+{"BrandID": 932,"Brand": "Vadem","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 933,"Brand": "Compaq","HardwareDesigner": "Compaq Computer","Manufacturer": "Compaq Computer"}
+{"BrandID": 934,"Brand": "Ericsson","HardwareDesigner": "Hewlett-Packard","Manufacturer": "Hewlett-Packard"}
+{"BrandID": 935,"Brand": "IBM","HardwareDesigner": "IBM","Manufacturer": "IBM"}
+{"BrandID": 936,"Brand": "BenQ","HardwareDesigner": "Siemens","Manufacturer": "Siemens"}
+{"BrandID": 937,"Brand": "Olympus","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 938,"Brand": "Siemens","HardwareDesigner": "HTC","Manufacturer": "HTC"}
+{"BrandID": 939,"Brand": "Telekom","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 940,"Brand": "NTT DoCoMo","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 941,"Brand": "Coxion","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 942,"Brand": "Siemens","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 943,"Brand": "Fujitsu-Siemens","HardwareDesigner": "","Manufacturer": ""}
+{"BrandID": 944,"Brand": "Siemens","HardwareDesigner": "Casio Computer","Manufacturer": "Casio Computer"}
