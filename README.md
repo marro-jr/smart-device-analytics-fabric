@@ -1340,13 +1340,6 @@ Resultados principales:
 <img width="1462" height="911" alt="image" src="https://github.com/user-attachments/assets/e71cd241-683a-4299-9756-b5687af72787" />
 
 
-Descripción exacta de la imagen que debes pegar aquí:
-
-- Captura donde se vea el estado correcto de las actividades.
-- Puede ser del pipeline principal, ingesta o transformación.
-- Idealmente debe mostrar varias actividades con check verde.
-
-**PEGAR IMAGEN AQUÍ**
 
 ---
 
